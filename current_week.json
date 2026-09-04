@@ -5,7 +5,7 @@
       "player_name": "Rhamondre Stevenson",
       "model_prediction": 63.187017728189154,
       "vegas_line": 41.5,
-      "edge": 21.687017728189154,
+      "edge": 23.687017728189154,
       "market": "Rushing Yds",
       "odds": -110,
       "bookmaker": "consensus",
@@ -24,11 +24,34 @@
       "threshold_tier": "deployed",
       "season": 2026,
       "week": 1,
+      "best_book": "BetRivers",
+      "best_line": 39.5,
+      "best_odds": -110,
+      "consensus_line": 41.5,
+      "book_lines": {
+        "DraftKings": 43.5,
+        "FanDuel": 41.5,
+        "BetRivers": 39.5
+      },
+      "line_disparity": 4.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://il.betrivers.com/sportsbook/football",
       "team_abbr": "NE",
       "opponent_abbr": "SEA",
+      "lines": {
+        "DraftKings": 43.5,
+        "FanDuel": 41.5,
+        "BetRivers": 39.5
+      },
       "direction": "OVER",
       "confidence_tier": "high",
-      "confidence_pct": 21.7,
+      "confidence_pct": 23.7,
       "is_starred": true,
       "pick_id": null,
       "day_generated": "TUE",
@@ -60,8 +83,31 @@
       "threshold_tier": "deployed",
       "season": 2026,
       "week": 1,
+      "best_book": "DraftKings",
+      "best_line": 29.5,
+      "best_odds": -110,
+      "consensus_line": 29.5,
+      "book_lines": {
+        "DraftKings": 29.5,
+        "FanDuel": 29.5,
+        "BetRivers": 32.5
+      },
+      "line_disparity": 3.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
       "team_abbr": "SEA",
       "opponent_abbr": "NE",
+      "lines": {
+        "DraftKings": 29.5,
+        "FanDuel": 29.5,
+        "BetRivers": 32.5
+      },
       "direction": "OVER",
       "confidence_tier": "medium",
       "confidence_pct": 14.3,
@@ -96,8 +142,31 @@
       "threshold_tier": "deployed",
       "season": 2026,
       "week": 1,
+      "best_book": "DraftKings",
+      "best_line": 18.5,
+      "best_odds": -110,
+      "consensus_line": 18.5,
+      "book_lines": {
+        "DraftKings": 18.5,
+        "FanDuel": 18.5,
+        "BetRivers": 20.5
+      },
+      "line_disparity": 2.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
       "team_abbr": "NE",
       "opponent_abbr": "SEA",
+      "lines": {
+        "DraftKings": 18.5,
+        "FanDuel": 18.5,
+        "BetRivers": 20.5
+      },
       "direction": "OVER",
       "confidence_tier": "high",
       "confidence_pct": 16.3,
@@ -132,8 +201,31 @@
       "threshold_tier": "deployed",
       "season": 2026,
       "week": 1,
+      "best_book": "FanDuel",
+      "best_line": 24.5,
+      "best_odds": -110,
+      "consensus_line": 24.5,
+      "book_lines": {
+        "DraftKings": 26.5,
+        "FanDuel": 24.5,
+        "BetRivers": 24.5
+      },
+      "line_disparity": 2.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
       "team_abbr": "SEA",
       "opponent_abbr": "NE",
+      "lines": {
+        "DraftKings": 26.5,
+        "FanDuel": 24.5,
+        "BetRivers": 24.5
+      },
       "direction": "OVER",
       "confidence_tier": "medium",
       "confidence_pct": 11.0,
