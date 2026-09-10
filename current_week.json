@@ -57,7 +57,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-10",
       "game_time_ct": "7:35 PM CT",
-      "rank": 12
+      "rank": 1
     },
     {
       "game_id": "5ad8135dc2b5f27de0b777acd317855a",
@@ -114,7 +114,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-14",
       "game_time_ct": "7:15 PM CT",
-      "rank": 13
+      "rank": 2
     },
     {
       "game_id": "7dddb296a42e7a41a774b24bd1709ce1",
@@ -173,7 +173,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 14
+      "rank": 3
     },
     {
       "game_id": "c5d95f48a16849ab6bebc68fbbfcb74a",
@@ -232,7 +232,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 15
+      "rank": 4
     },
     {
       "game_id": "acc580d74344ea3b31bbcdd057fe6a9c",
@@ -291,7 +291,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-10",
       "game_time_ct": "7:35 PM CT",
-      "rank": 16
+      "rank": 5
     },
     {
       "game_id": "5ad8135dc2b5f27de0b777acd317855a",
@@ -348,7 +348,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-14",
       "game_time_ct": "7:15 PM CT",
-      "rank": 17
+      "rank": 7
     },
     {
       "game_id": "5ad8135dc2b5f27de0b777acd317855a",
@@ -405,7 +405,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-14",
       "game_time_ct": "7:15 PM CT",
-      "rank": 18
+      "rank": 8
     },
     {
       "week": 1,
@@ -417,10 +417,10 @@
       "market": "Receiving Yds",
       "model_prediction": 33.21073021424182,
       "vegas_line": 14.5,
-      "best_line": 14.5,
-      "best_book": "DraftKings",
+      "best_line": 13.5,
+      "best_book": "BetMGM",
       "best_odds": -110,
-      "edge": 18.71073021424182,
+      "edge": 19.71,
       "kelly_fraction": 0.3364,
       "bet_size": 150.0,
       "confidence_tier": "high",
@@ -430,16 +430,30 @@
       "day_generated": "WED",
       "commence_time": "2026-09-13T17:00:00Z",
       "game_date": "2026-09-13",
-      "lines": {},
-      "book_urls": {},
+      "lines": {
+        "DraftKings": 14.5,
+        "FanDuel": 15.5,
+        "BetRivers": 14.5,
+        "BetMGM": 13.5
+      },
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
       "pick_id": 3430,
-      "team_abbr": "",
-      "opponent_abbr": "",
+      "team_abbr": "CAR",
+      "opponent_abbr": "CHI",
       "direction": "OVER",
-      "confidence_pct": 18.7,
+      "confidence_pct": 19.7,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 19
+      "rank": 6,
+      "best_book_url": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+      "consensus_line": 14.5,
+      "line_disparity": 2.0
     },
     {
       "game_id": "ed6d24ff979f9c71979fead577b0b3f7",
@@ -498,7 +512,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 20
+      "rank": 9
     },
     {
       "game_id": "17885cb8dcade8f6c3bce14b2de805e8",
@@ -555,7 +569,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 21
+      "rank": 10
     },
     {
       "game_id": "3e646c7479c57f5d9752d8c7dfe7059b",
@@ -614,7 +628,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "7:20 PM CT",
-      "rank": 22
+      "rank": 11
     },
     {
       "game_id": "7dddb296a42e7a41a774b24bd1709ce1",
@@ -673,7 +687,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 23
+      "rank": 12
     },
     {
       "game_id": "c5d95f48a16849ab6bebc68fbbfcb74a",
@@ -732,7 +746,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 24
+      "rank": 13
     },
     {
       "game_id": "7e09efed7e12c659b82740b67ce2f9a1",
@@ -789,7 +803,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 25
+      "rank": 14
     },
     {
       "game_id": "fc362aff0d889ec52d358307a70c32ed",
@@ -846,7 +860,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 26
+      "rank": 15
     },
     {
       "game_id": "b6cfdcbafa61ce220ba87dc2d9b80c77",
@@ -903,7 +917,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 27
+      "rank": 16
     },
     {
       "game_id": "acc580d74344ea3b31bbcdd057fe6a9c",
@@ -962,7 +976,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-10",
       "game_time_ct": "7:35 PM CT",
-      "rank": 29
+      "rank": 17
     },
     {
       "game_id": "8c94552d022acec4a0458d70c19d3da9",
@@ -1021,7 +1035,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-09",
       "game_time_ct": "7:20 PM CT",
-      "rank": 30
+      "rank": 18
     },
     {
       "week": 1,
@@ -1055,7 +1069,7 @@
       "confidence_pct": 15.3,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 31
+      "rank": 19
     },
     {
       "week": 1,
@@ -1066,30 +1080,44 @@
       "opponent": "MIA",
       "market": "Receiving Yds",
       "model_prediction": 30.565988711097326,
-      "vegas_line": 15.5,
-      "best_line": 15.5,
+      "vegas_line": 17.5,
+      "best_line": 17.5,
       "best_book": "DraftKings",
       "best_odds": -110,
-      "edge": 15.065988711097326,
+      "edge": 13.07,
       "kelly_fraction": 0.2125,
       "bet_size": 150.0,
-      "confidence_tier": "high",
+      "confidence_tier": "medium",
       "pick_cancelled": false,
       "status": "pending",
       "game_type": "REG",
       "day_generated": "WED",
       "commence_time": "2026-09-13T20:25:00Z",
       "game_date": "2026-09-13",
-      "lines": {},
-      "book_urls": {},
+      "lines": {
+        "DraftKings": 17.5,
+        "BetRivers": 17.5,
+        "FanDuel": 18.5,
+        "BetMGM": 17.5
+      },
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
       "pick_id": 3428,
-      "team_abbr": "",
-      "opponent_abbr": "",
+      "team_abbr": "LV",
+      "opponent_abbr": "MIA",
       "direction": "OVER",
-      "confidence_pct": 15.1,
-      "is_starred": true,
+      "confidence_pct": 13.1,
+      "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 32
+      "rank": 32,
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "consensus_line": 17.5,
+      "line_disparity": 1.0
     },
     {
       "game_id": "7e09efed7e12c659b82740b67ce2f9a1",
@@ -1146,7 +1174,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 33
+      "rank": 20
     },
     {
       "game_id": "e55c6fe19fce094ce214c8b0e5b504e9",
@@ -1203,7 +1231,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 34
+      "rank": 21
     },
     {
       "game_id": "cb77efed7e711d25a72c1a2a0a1af119",
@@ -1262,7 +1290,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 35
+      "rank": 22
     },
     {
       "game_id": "acc580d74344ea3b31bbcdd057fe6a9c",
@@ -1321,7 +1349,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-10",
       "game_time_ct": "7:35 PM CT",
-      "rank": 36
+      "rank": 23
     },
     {
       "game_id": "cb77efed7e711d25a72c1a2a0a1af119",
@@ -1380,7 +1408,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 37
+      "rank": 24
     },
     {
       "game_id": "1edfa5ceaa1ad2cb57df1c1b908731f6",
@@ -1439,7 +1467,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 38
+      "rank": 25
     },
     {
       "game_id": "8c94552d022acec4a0458d70c19d3da9",
@@ -1498,7 +1526,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-09",
       "game_time_ct": "7:20 PM CT",
-      "rank": 39
+      "rank": 26
     },
     {
       "game_id": "fc362aff0d889ec52d358307a70c32ed",
@@ -1555,7 +1583,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 40
+      "rank": 27
     },
     {
       "game_id": "7e09efed7e12c659b82740b67ce2f9a1",
@@ -1614,7 +1642,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 41
+      "rank": 28
     },
     {
       "game_id": "b6cfdcbafa61ce220ba87dc2d9b80c77",
@@ -1671,7 +1699,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 42
+      "rank": 29
     },
     {
       "game_id": "5ad8135dc2b5f27de0b777acd317855a",
@@ -1730,7 +1758,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-14",
       "game_time_ct": "7:15 PM CT",
-      "rank": 43
+      "rank": 30
     },
     {
       "game_id": "c1d3fcec25aaeb06ebd2244d33d338e0",
@@ -1787,7 +1815,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 44
+      "rank": 31
     },
     {
       "game_id": "5ad8135dc2b5f27de0b777acd317855a",
@@ -1844,7 +1872,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-14",
       "game_time_ct": "7:15 PM CT",
-      "rank": 45
+      "rank": 33
     },
     {
       "game_id": "1edfa5ceaa1ad2cb57df1c1b908731f6",
@@ -1901,7 +1929,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 46
+      "rank": 34
     },
     {
       "game_id": "fc362aff0d889ec52d358307a70c32ed",
@@ -1958,7 +1986,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 47
+      "rank": 35
     },
     {
       "game_id": "7dddb296a42e7a41a774b24bd1709ce1",
@@ -2017,7 +2045,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 48
+      "rank": 36
     },
     {
       "game_id": "c1d3fcec25aaeb06ebd2244d33d338e0",
@@ -2074,7 +2102,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 49
+      "rank": 37
     },
     {
       "game_id": "7dddb296a42e7a41a774b24bd1709ce1",
@@ -2133,7 +2161,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 50
+      "rank": 38
     },
     {
       "game_id": "17885cb8dcade8f6c3bce14b2de805e8",
@@ -2192,7 +2220,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 51
+      "rank": 39
     },
     {
       "game_id": "17885cb8dcade8f6c3bce14b2de805e8",
@@ -2251,7 +2279,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 52
+      "rank": 40
     },
     {
       "game_id": "e55c6fe19fce094ce214c8b0e5b504e9",
@@ -2310,7 +2338,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 53
+      "rank": 41
     },
     {
       "game_id": "c5d95f48a16849ab6bebc68fbbfcb74a",
@@ -2369,7 +2397,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 54
+      "rank": 42
     },
     {
       "game_id": "fc362aff0d889ec52d358307a70c32ed",
@@ -2424,7 +2452,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 55
+      "rank": 43
     },
     {
       "game_id": "7dddb296a42e7a41a774b24bd1709ce1",
@@ -2483,7 +2511,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 56
+      "rank": 44
     },
     {
       "game_id": "cb77efed7e711d25a72c1a2a0a1af119",
@@ -2542,7 +2570,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 57
+      "rank": 45
     },
     {
       "game_id": "c5d95f48a16849ab6bebc68fbbfcb74a",
@@ -2601,7 +2629,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 58
+      "rank": 46
     },
     {
       "game_id": "17885cb8dcade8f6c3bce14b2de805e8",
@@ -2658,7 +2686,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "3:25 PM CT",
-      "rank": 59
+      "rank": 47
     },
     {
       "game_id": "95c01d1bb797d6df14824b106c5a9130",
@@ -2717,7 +2745,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 60
+      "rank": 48
     },
     {
       "game_id": "ed6d24ff979f9c71979fead577b0b3f7",
@@ -2776,7 +2804,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 61
+      "rank": 49
     },
     {
       "game_id": "7e09efed7e12c659b82740b67ce2f9a1",
@@ -2835,7 +2863,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 62
+      "rank": 50
     },
     {
       "game_id": "95c01d1bb797d6df14824b106c5a9130",
@@ -2894,7 +2922,7 @@
       "day_generated": "TUE",
       "game_date": "2026-09-13",
       "game_time_ct": "12:00 PM CT",
-      "rank": 63
+      "rank": 51
     }
   ],
   "generated_at": "2026-09-09T15:58:07.579720+00:00",
@@ -2911,7 +2939,7 @@
   "record_mybets": "0-0-0",
   "pnl_mybets": "+$0",
   "roi_mybets": "0.0%",
-  "last_updated_ct": "Tuesday, Sep 08 · 9:08 AM CT",
+  "last_updated_ct": "Tuesday, Sep 08 \u00b7 9:08 AM CT",
   "available_weeks": [
     {
       "week": 1,
