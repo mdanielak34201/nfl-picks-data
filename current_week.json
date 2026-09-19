@@ -52,7 +52,9 @@
       "confidence_pct": 27.5,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 1
+      "rank": 1,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -104,7 +106,9 @@
       "confidence_pct": 24.3,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 2
+      "rank": 2,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -156,7 +160,9 @@
       "confidence_pct": 22.3,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 3
+      "rank": 3,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -208,7 +214,9 @@
       "confidence_pct": 22.1,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 4
+      "rank": 4,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -256,7 +264,9 @@
       "confidence_pct": 21.8,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 5
+      "rank": 5,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "game_id": "56e8897681915f7ec92baeee952bb1ae",
@@ -315,7 +325,9 @@
       "day_generated": "TUE",
       "game_date": "2026-09-17",
       "game_time_ct": "7:15 PM CT",
-      "rank": 6
+      "rank": 6,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -367,7 +379,9 @@
       "confidence_pct": 20.4,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 7
+      "rank": 7,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -419,7 +433,9 @@
       "confidence_pct": 20.0,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 8
+      "rank": 8,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -467,7 +483,9 @@
       "confidence_pct": 20.0,
       "is_starred": true,
       "game_time_ct": "3:05 PM CT",
-      "rank": 9
+      "rank": 9,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -519,7 +537,9 @@
       "confidence_pct": 18.8,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 10
+      "rank": 10,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -573,7 +593,9 @@
       "confidence_pct": 18.2,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 11
+      "rank": 11,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -625,7 +647,9 @@
       "confidence_pct": 18.0,
       "is_starred": true,
       "game_time_ct": "7:20 PM CT",
-      "rank": 12
+      "rank": 12,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -673,7 +697,9 @@
       "confidence_pct": 17.7,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 13
+      "rank": 13,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -727,7 +753,9 @@
       "confidence_pct": 17.4,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 14
+      "rank": 14,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -779,7 +807,9 @@
       "confidence_pct": 16.8,
       "is_starred": true,
       "game_time_ct": "7:20 PM CT",
-      "rank": 15
+      "rank": 15,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -827,7 +857,9 @@
       "confidence_pct": 16.3,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 16
+      "rank": 16,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -879,7 +911,9 @@
       "confidence_pct": 16.2,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 17
+      "rank": 17,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -933,7 +967,9 @@
       "confidence_pct": 16.1,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 18
+      "rank": 18,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -983,7 +1019,9 @@
       "confidence_pct": 15.8,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 19
+      "rank": 19,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1033,7 +1071,9 @@
       "confidence_pct": 15.5,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 20
+      "rank": 20,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1083,7 +1123,9 @@
       "confidence_pct": 15.2,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 21
+      "rank": 21,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1135,7 +1177,9 @@
       "confidence_pct": 15.2,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 22
+      "rank": 22,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1185,7 +1229,9 @@
       "confidence_pct": 14.9,
       "is_starred": false,
       "game_time_ct": "7:15 PM CT",
-      "rank": 23
+      "rank": 23,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "game_id": "56e8897681915f7ec92baeee952bb1ae",
@@ -1244,7 +1290,9 @@
       "day_generated": "TUE",
       "game_date": "2026-09-17",
       "game_time_ct": "7:15 PM CT",
-      "rank": 24
+      "rank": 24,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1298,7 +1346,9 @@
       "confidence_pct": 14.5,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 25
+      "rank": 25,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1350,7 +1400,9 @@
       "confidence_pct": 14.5,
       "is_starred": false,
       "game_time_ct": "3:05 PM CT",
-      "rank": 26
+      "rank": 26,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "game_id": "56e8897681915f7ec92baeee952bb1ae",
@@ -1409,7 +1461,9 @@
       "day_generated": "TUE",
       "game_date": "2026-09-17",
       "game_time_ct": "7:15 PM CT",
-      "rank": 27
+      "rank": 27,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1463,7 +1517,9 @@
       "confidence_pct": 13.9,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 28
+      "rank": 28,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1515,7 +1571,9 @@
       "confidence_pct": 13.5,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 29
+      "rank": 29,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1567,7 +1625,9 @@
       "confidence_pct": 13.4,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 30
+      "rank": 30,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1621,7 +1681,9 @@
       "confidence_pct": 13.3,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 31
+      "rank": 31,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1673,7 +1735,9 @@
       "confidence_pct": 13.2,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 32
+      "rank": 32,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1725,7 +1789,9 @@
       "confidence_pct": 13.2,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 33
+      "rank": 33,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1777,7 +1843,9 @@
       "confidence_pct": 13.2,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 34
+      "rank": 34,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1829,7 +1897,9 @@
       "confidence_pct": 13.1,
       "is_starred": false,
       "game_time_ct": "7:20 PM CT",
-      "rank": 35
+      "rank": 35,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1877,7 +1947,9 @@
       "confidence_pct": 13.0,
       "is_starred": false,
       "game_time_ct": "3:05 PM CT",
-      "rank": 36
+      "rank": 36,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1929,7 +2001,9 @@
       "confidence_pct": 12.8,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 37
+      "rank": 37,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -1981,7 +2055,9 @@
       "confidence_pct": 12.8,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 38
+      "rank": 38,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2033,7 +2109,9 @@
       "confidence_pct": 12.6,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 39
+      "rank": 39,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2081,7 +2159,9 @@
       "confidence_pct": 12.3,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 40
+      "rank": 40,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2135,7 +2215,9 @@
       "confidence_pct": 12.2,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 41
+      "rank": 41,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2185,7 +2267,9 @@
       "confidence_pct": 12.1,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 42
+      "rank": 42,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2237,7 +2321,9 @@
       "confidence_pct": 12.0,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 43
+      "rank": 43,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2289,7 +2375,9 @@
       "confidence_pct": 11.9,
       "is_starred": false,
       "game_time_ct": "3:05 PM CT",
-      "rank": 44
+      "rank": 44,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2343,7 +2431,9 @@
       "confidence_pct": 11.7,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 45
+      "rank": 45,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2395,7 +2485,9 @@
       "confidence_pct": 11.6,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 46
+      "rank": 46,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2443,7 +2535,9 @@
       "confidence_pct": 11.6,
       "is_starred": false,
       "game_time_ct": "3:05 PM CT",
-      "rank": 47
+      "rank": 47,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2497,7 +2591,9 @@
       "confidence_pct": 11.4,
       "is_starred": false,
       "game_time_ct": "7:20 PM CT",
-      "rank": 48
+      "rank": 48,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2545,7 +2641,9 @@
       "confidence_pct": 11.4,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 49
+      "rank": 49,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2593,7 +2691,9 @@
       "confidence_pct": 11.3,
       "is_starred": false,
       "game_time_ct": "3:05 PM CT",
-      "rank": 50
+      "rank": 50,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2645,7 +2745,9 @@
       "confidence_pct": 11.2,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 51
+      "rank": 51,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2695,7 +2797,9 @@
       "confidence_pct": 11.0,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 52
+      "rank": 52,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2749,7 +2853,9 @@
       "confidence_pct": 11.0,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 53
+      "rank": 53,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2803,7 +2909,9 @@
       "confidence_pct": 11.0,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 54
+      "rank": 54,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2851,7 +2959,9 @@
       "confidence_pct": 11.0,
       "is_starred": false,
       "game_time_ct": "3:05 PM CT",
-      "rank": 55
+      "rank": 55,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2903,7 +3013,9 @@
       "confidence_pct": 10.9,
       "is_starred": false,
       "game_time_ct": "7:20 PM CT",
-      "rank": 56
+      "rank": 56,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -2955,7 +3067,9 @@
       "confidence_pct": 10.8,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 57
+      "rank": 57,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -3009,7 +3123,9 @@
       "confidence_pct": 10.8,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 58
+      "rank": 58,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -3063,7 +3179,9 @@
       "confidence_pct": 10.5,
       "is_starred": false,
       "game_time_ct": "3:05 PM CT",
-      "rank": 59
+      "rank": 59,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -3117,7 +3235,9 @@
       "confidence_pct": 10.5,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 60
+      "rank": 60,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -3169,7 +3289,9 @@
       "confidence_pct": 10.5,
       "is_starred": false,
       "game_time_ct": "7:20 PM CT",
-      "rank": 61
+      "rank": 61,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -3221,7 +3343,9 @@
       "confidence_pct": 10.3,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 62
+      "rank": 62,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -3273,7 +3397,9 @@
       "confidence_pct": 10.3,
       "is_starred": false,
       "game_time_ct": "7:15 PM CT",
-      "rank": 63
+      "rank": 63,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -3327,7 +3453,9 @@
       "confidence_pct": 10.0,
       "is_starred": false,
       "game_time_ct": "7:20 PM CT",
-      "rank": 64
+      "rank": 64,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -3381,7 +3509,9 @@
       "confidence_pct": 10.0,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 65
+      "rank": 65,
+      "friday_status": "cleared",
+      "flag_reason": null
     },
     {
       "week": 2,
@@ -3431,10 +3561,12 @@
       "confidence_pct": 10.0,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 66
+      "rank": 66,
+      "friday_status": "cleared",
+      "flag_reason": null
     }
   ],
-  "generated_at": "2026-09-18T16:06:19.386330+00:00",
+  "generated_at": "2026-09-19T02:24:43.378702+00:00",
   "count": 66,
   "week": 2,
   "season": 2025,
