@@ -1,6 +1,62 @@
 {
   "picks": [
     {
+      "week": 5,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Mason Taylor",
+      "team": "NYJ",
+      "opponent": "CLE",
+      "market": "Receiving Yds",
+      "model_prediction": 36.812565363948124,
+      "vegas_line": 13.5,
+      "best_line": 13.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 23.312565363948124,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 13.5,
+      "book_lines": {
+        "DraftKings": 13.5,
+        "FanDuel": 13.5,
+        "BetRivers": 13.5,
+        "BetMGM": 13.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3788,
+      "team_abbr": "NYJ",
+      "home_team": "New York Jets",
+      "away_team": "Cleveland Browns",
+      "opponent_abbr": "CLE",
+      "lines": {
+        "DraftKings": 13.5,
+        "FanDuel": 13.5,
+        "BetRivers": 13.5,
+        "BetMGM": 13.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 23.3,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 1
+    },
+    {
       "game_id": "259b5df9aa0d10257f56de78523495e0",
       "player_name": "Chris Godwin",
       "model_prediction": 48.42843834023088,
@@ -60,7 +116,167 @@
       "day_generated": "TUE",
       "game_date": "2026-10-08",
       "game_time_ct": "7:15 PM CT",
-      "rank": 1
+      "rank": 2
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Dawson Knox",
+      "team": "BUF",
+      "opponent": "LAR",
+      "market": "Receiving Yds",
+      "model_prediction": 31.311437485868833,
+      "vegas_line": 10.5,
+      "best_line": 10.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 20.811437485868833,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-13T00:15:00Z",
+      "game_date": "2026-10-12",
+      "consensus_line": 10.5,
+      "book_lines": {
+        "DraftKings": 10.5,
+        "FanDuel": 10.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3791,
+      "team_abbr": "BUF",
+      "home_team": "Los Angeles Rams",
+      "away_team": "Buffalo Bills",
+      "opponent_abbr": "LAR",
+      "lines": {
+        "DraftKings": 10.5,
+        "FanDuel": 10.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 20.8,
+      "is_starred": true,
+      "game_time_ct": "7:15 PM CT",
+      "rank": 3
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Cole Kmet",
+      "team": "CHI",
+      "opponent": "GB",
+      "market": "Receiving Yds",
+      "model_prediction": 30.243041912289975,
+      "vegas_line": 9.5,
+      "best_line": 9.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 20.743041912289975,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 9.5,
+      "book_lines": {
+        "DraftKings": 9.5,
+        "FanDuel": 9.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3785,
+      "team_abbr": "CHI",
+      "home_team": "Green Bay Packers",
+      "away_team": "Chicago Bears",
+      "opponent_abbr": "GB",
+      "lines": {
+        "DraftKings": 9.5,
+        "FanDuel": 9.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 20.7,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 4
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Isaiah Williams",
+      "team": "NYJ",
+      "opponent": "CLE",
+      "market": "Receiving Yds",
+      "model_prediction": 41.75648817975004,
+      "vegas_line": 22.0,
+      "best_line": 21.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 20.256488179750043,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 22.0,
+      "book_lines": {
+        "DraftKings": 21.5,
+        "FanDuel": 23.5,
+        "BetRivers": 22.5,
+        "BetMGM": 21.5
+      },
+      "line_disparity": 2.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3776,
+      "team_abbr": "NYJ",
+      "home_team": "New York Jets",
+      "away_team": "Cleveland Browns",
+      "opponent_abbr": "CLE",
+      "lines": {
+        "DraftKings": 21.5,
+        "FanDuel": 23.5,
+        "BetRivers": 22.5,
+        "BetMGM": 21.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 20.3,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 5
     },
     {
       "week": 5,
@@ -116,7 +332,7 @@
       "confidence_pct": 19.7,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 2
+      "rank": 6
     },
     {
       "game_id": "259b5df9aa0d10257f56de78523495e0",
@@ -178,7 +394,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-08",
       "game_time_ct": "7:15 PM CT",
-      "rank": 3
+      "rank": 7
     },
     {
       "game_id": "86457f91112732f21ad4bb7d37bd291c",
@@ -234,7 +450,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "7:20 PM CT",
-      "rank": 4
+      "rank": 8
     },
     {
       "week": 5,
@@ -288,7 +504,7 @@
       "confidence_pct": 18.5,
       "is_starred": true,
       "game_time_ct": "7:15 PM CT",
-      "rank": 5
+      "rank": 9
     },
     {
       "week": 5,
@@ -344,7 +560,113 @@
       "confidence_pct": 18.3,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 6
+      "rank": 10
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Colby Parkinson",
+      "team": "LA",
+      "opponent": "BUF",
+      "market": "Receiving Yds",
+      "model_prediction": 34.50159219742613,
+      "vegas_line": 16.5,
+      "best_line": 16.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 18.001592197426127,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-13T00:15:00Z",
+      "game_date": "2026-10-12",
+      "consensus_line": 16.5,
+      "book_lines": {
+        "DraftKings": 16.5,
+        "FanDuel": 16.5,
+        "BetRivers": 16.5,
+        "BetMGM": 17.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3790,
+      "team_abbr": "LA",
+      "lines": {
+        "DraftKings": 16.5,
+        "FanDuel": 16.5,
+        "BetRivers": 16.5,
+        "BetMGM": 17.5
+      },
+      "opponent_abbr": "",
+      "direction": "OVER",
+      "confidence_pct": 18.0,
+      "is_starred": true,
+      "game_time_ct": "7:15 PM CT",
+      "rank": 11
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Jonnu Smith",
+      "team": "GB",
+      "opponent": "CHI",
+      "market": "Receiving Yds",
+      "model_prediction": 24.74917770832361,
+      "vegas_line": 7.5,
+      "best_line": 7.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 17.24917770832361,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 7.5,
+      "book_lines": {
+        "DraftKings": 7.5,
+        "FanDuel": 7.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3786,
+      "team_abbr": "GB",
+      "home_team": "Green Bay Packers",
+      "away_team": "Chicago Bears",
+      "opponent_abbr": "CHI",
+      "lines": {
+        "DraftKings": 7.5,
+        "FanDuel": 7.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 17.2,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 12
     },
     {
       "week": 5,
@@ -398,7 +720,7 @@
       "confidence_pct": 17.1,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 7
+      "rank": 13
     },
     {
       "game_id": "259b5df9aa0d10257f56de78523495e0",
@@ -458,7 +780,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-08",
       "game_time_ct": "7:15 PM CT",
-      "rank": 8
+      "rank": 14
     },
     {
       "week": 5,
@@ -510,7 +832,7 @@
       "confidence_pct": 17.1,
       "is_starred": true,
       "game_time_ct": "7:20 PM CT",
-      "rank": 9
+      "rank": 15
     },
     {
       "week": 5,
@@ -566,7 +888,57 @@
       "confidence_pct": 16.7,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 10
+      "rank": 16
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Devontez Walker",
+      "team": "BAL",
+      "opponent": "ATL",
+      "market": "Receiving Yds",
+      "model_prediction": 24.983005941193582,
+      "vegas_line": 8.5,
+      "best_line": 8.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 16.483005941193582,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-12T00:20:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 8.5,
+      "book_lines": {
+        "FanDuel": 8.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 3780,
+      "team_abbr": "BAL",
+      "home_team": "Atlanta Falcons",
+      "away_team": "Baltimore Ravens",
+      "opponent_abbr": "ATL",
+      "lines": {
+        "FanDuel": 8.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 16.5,
+      "is_starred": true,
+      "game_time_ct": "7:20 PM CT",
+      "rank": 17
     },
     {
       "game_id": "8e5d515b10d8a5ffb324640ed60bcc55",
@@ -626,7 +998,61 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "3:25 PM CT",
-      "rank": 11
+      "rank": 18
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Konata Mumpfield",
+      "team": "LA",
+      "opponent": "BUF",
+      "market": "Receiving Yds",
+      "model_prediction": 23.82748482405694,
+      "vegas_line": 7.5,
+      "best_line": 7.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 16.32748482405694,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-13T00:15:00Z",
+      "game_date": "2026-10-12",
+      "consensus_line": 7.5,
+      "book_lines": {
+        "DraftKings": 7.5,
+        "FanDuel": 7.5,
+        "BetRivers": 7.5,
+        "BetMGM": 7.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3783,
+      "team_abbr": "LA",
+      "lines": {
+        "DraftKings": 7.5,
+        "FanDuel": 7.5,
+        "BetRivers": 7.5,
+        "BetMGM": 7.5
+      },
+      "opponent_abbr": "",
+      "direction": "OVER",
+      "confidence_pct": 16.3,
+      "is_starred": true,
+      "game_time_ct": "7:15 PM CT",
+      "rank": 19
     },
     {
       "week": 5,
@@ -682,7 +1108,57 @@
       "confidence_pct": 16.2,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 12
+      "rank": 20
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Laquon Treadwell",
+      "team": "IND",
+      "opponent": "PIT",
+      "market": "Receiving Yds",
+      "model_prediction": 29.463825745789443,
+      "vegas_line": 13.5,
+      "best_line": 13.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 15.963825745789443,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 13.5,
+      "book_lines": {
+        "FanDuel": 13.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 3778,
+      "team_abbr": "IND",
+      "home_team": "Pittsburgh Steelers",
+      "away_team": "Indianapolis Colts",
+      "opponent_abbr": "PIT",
+      "lines": {
+        "FanDuel": 13.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 16.0,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 21
     },
     {
       "game_id": "259b5df9aa0d10257f56de78523495e0",
@@ -744,7 +1220,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-08",
       "game_time_ct": "7:15 PM CT",
-      "rank": 13
+      "rank": 22
     },
     {
       "week": 5,
@@ -796,7 +1272,59 @@
       "confidence_pct": 15.7,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 14
+      "rank": 23
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "RB_Rushing_Yards_V4_vegas",
+      "player_name": "Sione Vaki",
+      "team": "DET",
+      "opponent": "ARI",
+      "market": "Rushing Yds",
+      "model_prediction": 23.075586326733493,
+      "vegas_line": 8.0,
+      "best_line": 7.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 15.575586326733493,
+      "kelly_fraction": 0.3196,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T20:25:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 8.0,
+      "book_lines": {
+        "DraftKings": 7.5,
+        "FanDuel": 8.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3773,
+      "team_abbr": "DET",
+      "home_team": "Arizona Cardinals",
+      "away_team": "Detroit Lions",
+      "opponent_abbr": "ARI",
+      "lines": {
+        "DraftKings": 7.5,
+        "FanDuel": 8.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 15.6,
+      "is_starred": true,
+      "game_time_ct": "3:25 PM CT",
+      "rank": 24
     },
     {
       "game_id": "259b5df9aa0d10257f56de78523495e0",
@@ -856,7 +1384,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-08",
       "game_time_ct": "7:15 PM CT",
-      "rank": 15
+      "rank": 25
     },
     {
       "week": 5,
@@ -910,7 +1438,7 @@
       "confidence_pct": 15.3,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 16
+      "rank": 26
     },
     {
       "week": 5,
@@ -960,7 +1488,57 @@
       "confidence_pct": 15.2,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 17
+      "rank": 27
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "RB_Rushing_Yards_V4_vegas",
+      "player_name": "Rachaad White",
+      "team": "WAS",
+      "opponent": "NYG",
+      "market": "Rushing Yds",
+      "model_prediction": 38.652899508550036,
+      "vegas_line": 23.5,
+      "best_line": 23.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 15.152899508550036,
+      "kelly_fraction": 0.3196,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 23.5,
+      "book_lines": {
+        "FanDuel": 23.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 3772,
+      "team_abbr": "WAS",
+      "home_team": "Washington Commanders",
+      "away_team": "New York Giants",
+      "opponent_abbr": "NYG",
+      "lines": {
+        "FanDuel": 23.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 15.2,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 28
     },
     {
       "week": 5,
@@ -1016,7 +1594,7 @@
       "confidence_pct": 15.1,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 18
+      "rank": 29
     },
     {
       "game_id": "8e5d515b10d8a5ffb324640ed60bcc55",
@@ -1076,7 +1654,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "3:25 PM CT",
-      "rank": 19
+      "rank": 30
     },
     {
       "game_id": "8e5d515b10d8a5ffb324640ed60bcc55",
@@ -1136,7 +1714,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "3:25 PM CT",
-      "rank": 20
+      "rank": 31
     },
     {
       "week": 5,
@@ -1190,7 +1768,7 @@
       "confidence_pct": 14.9,
       "is_starred": false,
       "game_time_ct": "7:20 PM CT",
-      "rank": 21
+      "rank": 32
     },
     {
       "week": 5,
@@ -1246,7 +1824,7 @@
       "confidence_pct": 14.9,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 22
+      "rank": 33
     },
     {
       "week": 5,
@@ -1300,7 +1878,59 @@
       "confidence_pct": 14.9,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 23
+      "rank": 34
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Joshua Palmer",
+      "team": "BUF",
+      "opponent": "LAR",
+      "market": "Receiving Yds",
+      "model_prediction": 34.18184005980176,
+      "vegas_line": 19.5,
+      "best_line": 19.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 14.681840059801758,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-13T00:15:00Z",
+      "game_date": "2026-10-12",
+      "consensus_line": 19.5,
+      "book_lines": {
+        "DraftKings": 19.5,
+        "FanDuel": 19.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3782,
+      "team_abbr": "BUF",
+      "home_team": "Los Angeles Rams",
+      "away_team": "Buffalo Bills",
+      "opponent_abbr": "LAR",
+      "lines": {
+        "DraftKings": 19.5,
+        "FanDuel": 19.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 14.7,
+      "is_starred": false,
+      "game_time_ct": "7:15 PM CT",
+      "rank": 35
     },
     {
       "week": 5,
@@ -1356,7 +1986,7 @@
       "confidence_pct": 14.6,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 24
+      "rank": 36
     },
     {
       "game_id": "21b26266f3d78af02eb672e606275d95",
@@ -1416,7 +2046,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "8:30 AM CT",
-      "rank": 25
+      "rank": 37
     },
     {
       "game_id": "9db4ed15fe34fca1fb62f040cd244591",
@@ -1476,7 +2106,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "12:00 PM CT",
-      "rank": 26
+      "rank": 38
     },
     {
       "game_id": "86457f91112732f21ad4bb7d37bd291c",
@@ -1532,7 +2162,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "7:20 PM CT",
-      "rank": 27
+      "rank": 39
     },
     {
       "week": 5,
@@ -1586,7 +2216,7 @@
       "confidence_pct": 14.2,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 28
+      "rank": 40
     },
     {
       "week": 5,
@@ -1640,7 +2270,7 @@
       "confidence_pct": 14.2,
       "is_starred": false,
       "game_time_ct": "8:30 AM CT",
-      "rank": 29
+      "rank": 41
     },
     {
       "game_id": "21b26266f3d78af02eb672e606275d95",
@@ -1700,7 +2330,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "8:30 AM CT",
-      "rank": 30
+      "rank": 42
     },
     {
       "game_id": "259b5df9aa0d10257f56de78523495e0",
@@ -1762,7 +2392,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-08",
       "game_time_ct": "7:15 PM CT",
-      "rank": 31
+      "rank": 43
     },
     {
       "game_id": "259b5df9aa0d10257f56de78523495e0",
@@ -1822,7 +2452,63 @@
       "day_generated": "TUE",
       "game_date": "2026-10-08",
       "game_time_ct": "7:15 PM CT",
-      "rank": 32
+      "rank": 44
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Jerry Jeudy",
+      "team": "CLE",
+      "opponent": "NYJ",
+      "market": "Receiving Yds",
+      "model_prediction": 28.20152701696211,
+      "vegas_line": 15.0,
+      "best_line": 14.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 13.70152701696211,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 15.0,
+      "book_lines": {
+        "DraftKings": 14.5,
+        "FanDuel": 14.5,
+        "BetRivers": 15.5,
+        "BetMGM": 15.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3777,
+      "team_abbr": "CLE",
+      "home_team": "New York Jets",
+      "away_team": "Cleveland Browns",
+      "opponent_abbr": "NYJ",
+      "lines": {
+        "DraftKings": 14.5,
+        "FanDuel": 14.5,
+        "BetRivers": 15.5,
+        "BetMGM": 15.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 13.7,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 45
     },
     {
       "week": 5,
@@ -1874,7 +2560,7 @@
       "confidence_pct": 13.7,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 33
+      "rank": 46
     },
     {
       "game_id": "8e5d515b10d8a5ffb324640ed60bcc55",
@@ -1934,7 +2620,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "3:25 PM CT",
-      "rank": 34
+      "rank": 47
     },
     {
       "week": 5,
@@ -1990,7 +2676,7 @@
       "confidence_pct": 13.6,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 35
+      "rank": 48
     },
     {
       "week": 5,
@@ -2044,7 +2730,7 @@
       "confidence_pct": 13.5,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 36
+      "rank": 49
     },
     {
       "week": 5,
@@ -2098,7 +2784,7 @@
       "confidence_pct": 13.2,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 37
+      "rank": 50
     },
     {
       "week": 5,
@@ -2150,7 +2836,7 @@
       "confidence_pct": 13.1,
       "is_starred": false,
       "game_time_ct": "7:15 PM CT",
-      "rank": 38
+      "rank": 51
     },
     {
       "week": 5,
@@ -2206,7 +2892,7 @@
       "confidence_pct": 13.0,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 39
+      "rank": 52
     },
     {
       "week": 5,
@@ -2260,7 +2946,7 @@
       "confidence_pct": 13.0,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 40
+      "rank": 53
     },
     {
       "week": 5,
@@ -2314,7 +3000,7 @@
       "confidence_pct": 12.7,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 41
+      "rank": 54
     },
     {
       "week": 5,
@@ -2368,7 +3054,7 @@
       "confidence_pct": 12.5,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 42
+      "rank": 55
     },
     {
       "week": 5,
@@ -2422,7 +3108,7 @@
       "confidence_pct": 12.5,
       "is_starred": false,
       "game_time_ct": "3:05 PM CT",
-      "rank": 43
+      "rank": 56
     },
     {
       "game_id": "86457f91112732f21ad4bb7d37bd291c",
@@ -2478,7 +3164,59 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "7:20 PM CT",
-      "rank": 44
+      "rank": 57
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Kevin Coleman Jr.",
+      "team": "MIA",
+      "opponent": "CIN",
+      "market": "Receiving Yds",
+      "model_prediction": 30.91746527102393,
+      "vegas_line": 18.5,
+      "best_line": 18.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 12.417465271023929,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 18.5,
+      "book_lines": {
+        "DraftKings": 18.5,
+        "FanDuel": 18.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3775,
+      "team_abbr": "MIA",
+      "home_team": "Miami Dolphins",
+      "away_team": "Cincinnati Bengals",
+      "opponent_abbr": "CIN",
+      "lines": {
+        "DraftKings": 18.5,
+        "FanDuel": 18.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 12.4,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 58
     },
     {
       "week": 5,
@@ -2530,7 +3268,7 @@
       "confidence_pct": 12.4,
       "is_starred": false,
       "game_time_ct": "8:30 AM CT",
-      "rank": 45
+      "rank": 59
     },
     {
       "game_id": "9db4ed15fe34fca1fb62f040cd244591",
@@ -2588,7 +3326,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "12:00 PM CT",
-      "rank": 46
+      "rank": 60
     },
     {
       "week": 5,
@@ -2638,7 +3376,7 @@
       "confidence_pct": 12.1,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 47
+      "rank": 61
     },
     {
       "week": 5,
@@ -2692,7 +3430,7 @@
       "confidence_pct": 11.9,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 48
+      "rank": 62
     },
     {
       "week": 5,
@@ -2742,7 +3480,7 @@
       "confidence_pct": 11.9,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 49
+      "rank": 63
     },
     {
       "week": 5,
@@ -2798,7 +3536,7 @@
       "confidence_pct": 11.8,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 50
+      "rank": 64
     },
     {
       "week": 5,
@@ -2852,7 +3590,59 @@
       "confidence_pct": 11.7,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 51
+      "rank": 65
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Olamide Zaccheaus",
+      "team": "ATL",
+      "opponent": "BAL",
+      "market": "Receiving Yds",
+      "model_prediction": 18.16171974095374,
+      "vegas_line": 7.0,
+      "best_line": 6.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 11.661719740953739,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-12T00:20:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 7.0,
+      "book_lines": {
+        "DraftKings": 6.5,
+        "FanDuel": 7.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3779,
+      "team_abbr": "ATL",
+      "home_team": "Atlanta Falcons",
+      "away_team": "Baltimore Ravens",
+      "opponent_abbr": "BAL",
+      "lines": {
+        "DraftKings": 6.5,
+        "FanDuel": 7.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 11.7,
+      "is_starred": false,
+      "game_time_ct": "7:20 PM CT",
+      "rank": 66
     },
     {
       "week": 5,
@@ -2906,7 +3696,221 @@
       "confidence_pct": 11.6,
       "is_starred": false,
       "game_time_ct": "8:30 AM CT",
-      "rank": 52
+      "rank": 67
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Keon Coleman",
+      "team": "BUF",
+      "opponent": "LAR",
+      "market": "Receiving Yds",
+      "model_prediction": 48.82844076381668,
+      "vegas_line": 38.0,
+      "best_line": 37.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 11.32844076381668,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-13T00:15:00Z",
+      "game_date": "2026-10-12",
+      "consensus_line": 38.0,
+      "book_lines": {
+        "DraftKings": 38.5,
+        "FanDuel": 37.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 3781,
+      "team_abbr": "BUF",
+      "home_team": "Los Angeles Rams",
+      "away_team": "Buffalo Bills",
+      "opponent_abbr": "LAR",
+      "lines": {
+        "DraftKings": 38.5,
+        "FanDuel": 37.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 11.3,
+      "is_starred": false,
+      "game_time_ct": "7:15 PM CT",
+      "rank": 68
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Chris Bell",
+      "team": "MIA",
+      "opponent": "CIN",
+      "market": "Receiving Yds",
+      "model_prediction": 44.792098615018325,
+      "vegas_line": 33.5,
+      "best_line": 33.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 11.292098615018325,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 33.5,
+      "book_lines": {
+        "DraftKings": 33.5,
+        "FanDuel": 33.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3774,
+      "team_abbr": "MIA",
+      "home_team": "Miami Dolphins",
+      "away_team": "Cincinnati Bengals",
+      "opponent_abbr": "CIN",
+      "lines": {
+        "DraftKings": 33.5,
+        "FanDuel": 33.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 11.3,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 69
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Jordan Whittington",
+      "team": "LA",
+      "opponent": "BUF",
+      "market": "Receiving Yds",
+      "model_prediction": 16.760786152787375,
+      "vegas_line": 5.5,
+      "best_line": 5.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 11.260786152787375,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-13T00:15:00Z",
+      "game_date": "2026-10-12",
+      "consensus_line": 5.5,
+      "book_lines": {
+        "DraftKings": 5.5,
+        "FanDuel": 5.5,
+        "BetRivers": 5.5,
+        "BetMGM": 6.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3784,
+      "team_abbr": "LA",
+      "lines": {
+        "DraftKings": 5.5,
+        "FanDuel": 5.5,
+        "BetRivers": 5.5,
+        "BetMGM": 6.5
+      },
+      "opponent_abbr": "",
+      "direction": "OVER",
+      "confidence_pct": 11.3,
+      "is_starred": false,
+      "game_time_ct": "7:15 PM CT",
+      "rank": 70
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "RB_Rushing_Yards_V4_vegas",
+      "player_name": "Dameon Pierce",
+      "team": "PHI",
+      "opponent": "JAX",
+      "market": "Rushing Yds",
+      "model_prediction": 31.74787502184619,
+      "vegas_line": 21.0,
+      "best_line": 20.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 11.247875021846191,
+      "kelly_fraction": 0.3196,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T13:30:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 21.0,
+      "book_lines": {
+        "DraftKings": 20.5,
+        "FanDuel": 21.5,
+        "BetMGM": 23.5,
+        "BetRivers": 20.5
+      },
+      "line_disparity": 3.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3770,
+      "team_abbr": "PHI",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Philadelphia Eagles",
+      "opponent_abbr": "JAX",
+      "lines": {
+        "DraftKings": 20.5,
+        "FanDuel": 21.5,
+        "BetMGM": 23.5,
+        "BetRivers": 20.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 11.2,
+      "is_starred": false,
+      "game_time_ct": "8:30 AM CT",
+      "rank": 71
     },
     {
       "week": 5,
@@ -2960,7 +3964,63 @@
       "confidence_pct": 11.2,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 53
+      "rank": 72
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Greg Dulcich",
+      "team": "MIA",
+      "opponent": "CIN",
+      "market": "Receiving Yds",
+      "model_prediction": 35.665118656653355,
+      "vegas_line": 25.5,
+      "best_line": 24.5,
+      "best_book": "BetMGM",
+      "best_odds": -110,
+      "edge": 11.165118656653355,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 25.5,
+      "book_lines": {
+        "DraftKings": 26.5,
+        "FanDuel": 25.5,
+        "BetRivers": 25.5,
+        "BetMGM": 24.5
+      },
+      "line_disparity": 2.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+      "pick_id": 3787,
+      "team_abbr": "MIA",
+      "home_team": "Miami Dolphins",
+      "away_team": "Cincinnati Bengals",
+      "opponent_abbr": "CIN",
+      "lines": {
+        "DraftKings": 26.5,
+        "FanDuel": 25.5,
+        "BetRivers": 25.5,
+        "BetMGM": 24.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 11.2,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 73
     },
     {
       "week": 5,
@@ -3014,7 +4074,7 @@
       "confidence_pct": 11.1,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 54
+      "rank": 74
     },
     {
       "game_id": "259b5df9aa0d10257f56de78523495e0",
@@ -3072,7 +4132,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-08",
       "game_time_ct": "7:15 PM CT",
-      "rank": 55
+      "rank": 75
     },
     {
       "week": 5,
@@ -3126,7 +4186,7 @@
       "confidence_pct": 10.8,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 56
+      "rank": 76
     },
     {
       "week": 5,
@@ -3182,7 +4242,7 @@
       "confidence_pct": 10.7,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 57
+      "rank": 77
     },
     {
       "game_id": "8e5d515b10d8a5ffb324640ed60bcc55",
@@ -3242,7 +4302,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "3:25 PM CT",
-      "rank": 58
+      "rank": 78
     },
     {
       "game_id": "21b26266f3d78af02eb672e606275d95",
@@ -3302,7 +4362,113 @@
       "day_generated": "TUE",
       "game_date": "2026-10-11",
       "game_time_ct": "8:30 AM CT",
-      "rank": 59
+      "rank": 79
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "RB_Rushing_Yards_V4_vegas",
+      "player_name": "Rhamondre Stevenson",
+      "team": "NE",
+      "opponent": "LV",
+      "market": "Rushing Yds",
+      "model_prediction": 49.08760750736044,
+      "vegas_line": 38.5,
+      "best_line": 38.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 10.587607507360438,
+      "kelly_fraction": 0.3196,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-11T17:00:00Z",
+      "game_date": "2026-10-11",
+      "consensus_line": 38.5,
+      "book_lines": {
+        "DraftKings": 38.5,
+        "FanDuel": 38.5,
+        "BetRivers": 38.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3771,
+      "team_abbr": "NE",
+      "home_team": "New England Patriots",
+      "away_team": "Las Vegas Raiders",
+      "opponent_abbr": "LV",
+      "lines": {
+        "DraftKings": 38.5,
+        "FanDuel": 38.5,
+        "BetRivers": 38.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 10.6,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 80
+    },
+    {
+      "week": 5,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Tyler Higbee",
+      "team": "LA",
+      "opponent": "BUF",
+      "market": "Receiving Yds",
+      "model_prediction": 36.038220497186714,
+      "vegas_line": 25.5,
+      "best_line": 25.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 10.538220497186714,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-10-13T00:15:00Z",
+      "game_date": "2026-10-12",
+      "consensus_line": 25.5,
+      "book_lines": {
+        "DraftKings": 25.5,
+        "FanDuel": 25.5,
+        "BetRivers": 25.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 3789,
+      "team_abbr": "LA",
+      "lines": {
+        "DraftKings": 25.5,
+        "FanDuel": 25.5,
+        "BetRivers": 25.5
+      },
+      "opponent_abbr": "",
+      "direction": "OVER",
+      "confidence_pct": 10.5,
+      "is_starred": false,
+      "game_time_ct": "7:15 PM CT",
+      "rank": 81
     },
     {
       "week": 5,
@@ -3356,7 +4522,7 @@
       "confidence_pct": 10.3,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 60
+      "rank": 82
     },
     {
       "week": 5,
@@ -3410,11 +4576,11 @@
       "confidence_pct": 10.3,
       "is_starred": false,
       "game_time_ct": "8:30 AM CT",
-      "rank": 61
+      "rank": 83
     }
   ],
-  "generated_at": "2026-10-08T18:35:33.072415+00:00",
-  "count": 61,
+  "generated_at": "2026-10-09T18:09:55.388419+00:00",
+  "count": 83,
   "week": 5,
   "season": 2026,
   "bankroll": 5627.24,
