@@ -3,16 +3,16 @@
     {
       "game_id": "27f3994841ce8081c0b7349cf3d1e3d7",
       "player_name": "Chris Godwin",
-      "model_prediction": 45.813317269514535,
+      "model_prediction": 45.81331726951454,
       "vegas_line": 26.5,
-      "edge": 19.313317269514535,
+      "edge": 19.313317269514542,
       "market": "Receiving Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.4582917006612206,
-        "final_prediction": 45.813317269514535,
+        "final_prediction": 45.81331726951454,
         "reconciled_prediction": 45.81331726951454,
-        "reconciliation_diff": -7.105427357601002e-15,
+        "reconciliation_diff": 0.0,
         "features": [
           {
             "feature_name": "receivingyards_l4",
@@ -168,108 +168,11 @@
     {
       "game_id": "1cf74afd313e9fd300e1462012b174cb",
       "player_name": "Noah Fant",
-      "model_prediction": 29.668588144378347,
+      "model_prediction": 29.66858814437835,
       "vegas_line": 10.5,
-      "edge": 19.168588144378347,
+      "edge": 19.16858814437835,
       "market": "Receiving Yds",
       "odds": -110,
-      "_feature_log": {
-        "intercept": 9.341290658621102,
-        "final_prediction": 29.668588144378347,
-        "reconciled_prediction": 29.668588144378347,
-        "reconciliation_diff": 0.0,
-        "features": [
-          {
-            "feature_name": "receivingyards_l4",
-            "raw_value": 18.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.04197580499802352,
-            "contribution_yards": 0.7660584412139293
-          },
-          {
-            "feature_name": "receivingtargets_l4",
-            "raw_value": 3.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -3.4816109369046515,
-            "contribution_yards": -11.315235544940117
-          },
-          {
-            "feature_name": "receptions_l4",
-            "raw_value": 2.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 4.7366577164216785,
-            "contribution_yards": 10.657479861948776
-          },
-          {
-            "feature_name": "airyards_l4",
-            "raw_value": 16.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.2612046696724785,
-            "contribution_yards": 4.309877049595896
-          },
-          {
-            "feature_name": "targetshare_l4",
-            "raw_value": 7.6923076923076925,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.6038472896967719,
-            "contribution_yards": 4.64497915151363
-          },
-          {
-            "feature_name": "snappercentage_l4",
-            "raw_value": 52.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.31828458657346254,
-            "contribution_yards": 16.630369648463418
-          },
-          {
-            "feature_name": "yardsaftercatch_l4",
-            "raw_value": 9.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.14220180366648774,
-            "contribution_yards": 1.3153666839150115
-          },
-          {
-            "feature_name": "blocking_te_indicator",
-            "raw_value": 44.55769230769231,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.1063861163627086,
-            "contribution_yards": -4.74031983869992
-          },
-          {
-            "feature_name": "redzonetargets_l4",
-            "raw_value": 0.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 1.434498141021012,
-            "contribution_yards": 1.075873605765759
-          },
-          {
-            "feature_name": "separation_efficiency",
-            "raw_value": 6.743524050242235,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.5427164400912958,
-            "contribution_yards": -3.6598213662175025
-          },
-          {
-            "feature_name": "epa_total_l4",
-            "raw_value": -0.9376070275902748,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.6854361947884285,
-            "contribution_yards": 0.6426697931983671
-          }
-        ]
-      },
-      "_model_file_hash": "1deb0ef33eba24f0af0ff3888a9cead8fb77e048bd18587bfc168b9856ad9978",
       "bookmaker": "consensus",
       "team": "NO",
       "opponent": "NYG",
@@ -1298,103 +1201,6 @@
       "edge": 15.988429091330318,
       "market": "Receiving Yds",
       "odds": -110,
-      "_feature_log": {
-        "intercept": 9.341290658621102,
-        "final_prediction": 45.48842909133032,
-        "reconciled_prediction": 45.48842909133031,
-        "reconciliation_diff": 7.105427357601002e-15,
-        "features": [
-          {
-            "feature_name": "receivingyards_l4",
-            "raw_value": 39.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.04197580499802352,
-            "contribution_yards": 1.6370563949229173
-          },
-          {
-            "feature_name": "receivingtargets_l4",
-            "raw_value": 5.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -3.4816109369046515,
-            "contribution_yards": -19.148860152975583
-          },
-          {
-            "feature_name": "receptions_l4",
-            "raw_value": 3.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 4.7366577164216785,
-            "contribution_yards": 17.762466436581295
-          },
-          {
-            "feature_name": "airyards_l4",
-            "raw_value": 38.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.2612046696724785,
-            "contribution_yards": 9.991078614972304
-          },
-          {
-            "feature_name": "targetshare_l4",
-            "raw_value": 16.176470588235293,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.6038472896967719,
-            "contribution_yards": 9.768117921565429
-          },
-          {
-            "feature_name": "snappercentage_l4",
-            "raw_value": 92.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.31828458657346254,
-            "contribution_yards": 29.441324258045285
-          },
-          {
-            "feature_name": "yardsaftercatch_l4",
-            "raw_value": 26.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.14220180366648774,
-            "contribution_yards": 3.6972468953286812
-          },
-          {
-            "feature_name": "blocking_te_indicator",
-            "raw_value": 76.32352941176471,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.1063861163627086,
-            "contribution_yards": -8.119763881212613
-          },
-          {
-            "feature_name": "redzonetargets_l4",
-            "raw_value": 0.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 1.434498141021012,
-            "contribution_yards": 0.0
-          },
-          {
-            "feature_name": "separation_efficiency",
-            "raw_value": 14.748553070856584,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.5427164400912958,
-            "contribution_yards": -8.004282219112834
-          },
-          {
-            "feature_name": "epa_total_l4",
-            "raw_value": 1.2798358798027039,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.6854361947884285,
-            "contribution_yards": -0.8772458354056659
-          }
-        ]
-      },
-      "_model_file_hash": "1deb0ef33eba24f0af0ff3888a9cead8fb77e048bd18587bfc168b9856ad9978",
       "bookmaker": "consensus",
       "team": "TB",
       "opponent": "PIT",
@@ -1607,16 +1413,16 @@
     {
       "game_id": "84aa9e190e625d7e9cd67e1f157a45b4",
       "player_name": "Seth McGowan",
-      "model_prediction": 27.199934969541847,
+      "model_prediction": 27.199934969541843,
       "vegas_line": 14.0,
-      "edge": 15.699934969541847,
+      "edge": 15.699934969541843,
       "market": "Rushing Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.9072479618816303,
-        "final_prediction": 27.199934969541847,
+        "final_prediction": 27.199934969541843,
         "reconciled_prediction": 27.199934969541843,
-        "reconciliation_diff": 3.552713678800501e-15,
+        "reconciliation_diff": 0.0,
         "features": [
           {
             "feature_name": "rushattempts_l4",
@@ -1771,111 +1577,6 @@
       "edge": 15.58809681540746,
       "market": "Receiving Yds",
       "odds": -110,
-      "_feature_log": {
-        "intercept": 2.4582917006612206,
-        "final_prediction": 35.08809681540746,
-        "reconciled_prediction": 35.088096815407454,
-        "reconciliation_diff": 7.105427357601002e-15,
-        "features": [
-          {
-            "feature_name": "receivingyards_l4",
-            "raw_value": 20.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.05851139709265291,
-            "contribution_yards": -1.1994836403993847
-          },
-          {
-            "feature_name": "receivingtargets_l4",
-            "raw_value": 3.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321307634387,
-            "contribution_yards": 2.7728704903628953
-          },
-          {
-            "feature_name": "targetshare_l4",
-            "raw_value": 3.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321306824555,
-            "contribution_yards": 2.772870490059208
-          },
-          {
-            "feature_name": "snappercentage_l4",
-            "raw_value": 59.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.276936555593739,
-            "contribution_yards": 16.3392567800306
-          },
-          {
-            "feature_name": "airyards_l4",
-            "raw_value": 51.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.273836110326086,
-            "contribution_yards": -14.10255968179343
-          },
-          {
-            "feature_name": "yardsaftercatch_l4",
-            "raw_value": 8.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.032006188157693925,
-            "contribution_yards": 0.2560495052615514
-          },
-          {
-            "feature_name": "epa_total_l4",
-            "raw_value": 0.09316131472587585,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.8288014743201123,
-            "contribution_yards": 0.0772122349944059
-          },
-          {
-            "feature_name": "redzonetargets_l4",
-            "raw_value": 0.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -2.107037115305992,
-            "contribution_yards": -0.0
-          },
-          {
-            "feature_name": "receptions_l4",
-            "raw_value": 1.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -1.1784688725254515,
-            "contribution_yards": -1.7677033087881773
-          },
-          {
-            "feature_name": "separation_efficiency",
-            "raw_value": 5.94683550882505,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.07194694588703796,
-            "contribution_yards": 0.4278566525525517
-          },
-          {
-            "feature_name": "air_yards_per_snap",
-            "raw_value": 0.872866561583702,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 13.561532397910256,
-            "contribution_yards": 11.837408153969902
-          },
-          {
-            "feature_name": "vegas_reception_line",
-            "raw_value": 19.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7803090994100572,
-            "contribution_yards": 15.216027438496116
-          }
-        ]
-      },
-      "_model_file_hash": "1b00e0dc3d049231cc57d3cc30b33400c5bf58efbf6faa42a934e16c7bada0c7",
       "bookmaker": "consensus",
       "team": "NYG",
       "opponent": "NO",
@@ -1929,16 +1630,16 @@
     {
       "game_id": "84aa9e190e625d7e9cd67e1f157a45b4",
       "player_name": "Elic Ayomanor",
-      "model_prediction": 28.87583525873514,
+      "model_prediction": 28.875835258735137,
       "vegas_line": 15.5,
-      "edge": 15.37583525873514,
+      "edge": 15.375835258735137,
       "market": "Receiving Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.4582917006612206,
-        "final_prediction": 28.87583525873514,
+        "final_prediction": 28.875835258735137,
         "reconciled_prediction": 28.875835258735137,
-        "reconciliation_diff": 3.552713678800501e-15,
+        "reconciliation_diff": 0.0,
         "features": [
           {
             "feature_name": "receivingyards_l4",
@@ -2587,16 +2288,16 @@
     {
       "game_id": "855f58fad5f0f14b239f4f63df27998b",
       "player_name": "Rashid Shaheed",
-      "model_prediction": 35.84853239265791,
+      "model_prediction": 35.8485323926579,
       "vegas_line": 22.5,
-      "edge": 14.348532392657908,
+      "edge": 14.348532392657901,
       "market": "Receiving Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.4582917006612206,
-        "final_prediction": 35.84853239265791,
+        "final_prediction": 35.8485323926579,
         "reconciled_prediction": 35.8485323926579,
-        "reconciliation_diff": 7.105427357601002e-15,
+        "reconciliation_diff": 0.0,
         "features": [
           {
             "feature_name": "receivingyards_l4",
@@ -2754,16 +2455,16 @@
     {
       "game_id": "84aa9e190e625d7e9cd67e1f157a45b4",
       "player_name": "Gunnar Helm",
-      "model_prediction": 30.791871839446387,
+      "model_prediction": 30.791871839446383,
       "vegas_line": 17.5,
-      "edge": 14.291871839446387,
+      "edge": 14.291871839446383,
       "market": "Receiving Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 9.341290658621102,
-        "final_prediction": 30.791871839446387,
+        "final_prediction": 30.791871839446383,
         "reconciled_prediction": 30.791871839446372,
-        "reconciliation_diff": 1.4210854715202004e-14,
+        "reconciliation_diff": 1.0658141036401503e-14,
         "features": [
           {
             "feature_name": "receivingyards_l4",
@@ -2913,16 +2614,16 @@
     {
       "game_id": "57418b2cf5aca558b3c98eafac1e264a",
       "player_name": "Brian Thomas Jr",
-      "model_prediction": 30.574123581057354,
+      "model_prediction": 30.574123581057357,
       "vegas_line": 17.0,
-      "edge": 14.074123581057354,
+      "edge": 14.074123581057357,
       "market": "Receiving Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.4582917006612206,
-        "final_prediction": 30.574123581057354,
+        "final_prediction": 30.574123581057357,
         "reconciled_prediction": 30.574123581057357,
-        "reconciliation_diff": -3.552713678800501e-15,
+        "reconciliation_diff": 0.0,
         "features": [
           {
             "feature_name": "receivingyards_l4",
@@ -3085,103 +2786,6 @@
       "edge": 13.734075041007188,
       "market": "Receiving Yds",
       "odds": -110,
-      "_feature_log": {
-        "intercept": 9.341290658621102,
-        "final_prediction": 34.23407504100719,
-        "reconciled_prediction": 34.23407504100718,
-        "reconciliation_diff": 7.105427357601002e-15,
-        "features": [
-          {
-            "feature_name": "receivingyards_l4",
-            "raw_value": 28.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.04197580499802352,
-            "contribution_yards": 1.1858164911941644
-          },
-          {
-            "feature_name": "receivingtargets_l4",
-            "raw_value": 3.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -3.4816109369046515,
-            "contribution_yards": -12.18563827916628
-          },
-          {
-            "feature_name": "receptions_l4",
-            "raw_value": 2.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 4.7366577164216785,
-            "contribution_yards": 10.657479861948776
-          },
-          {
-            "feature_name": "airyards_l4",
-            "raw_value": 19.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.2612046696724785,
-            "contribution_yards": 5.028189891195211
-          },
-          {
-            "feature_name": "targetshare_l4",
-            "raw_value": 8.860759493670885,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.6038472896967719,
-            "contribution_yards": 5.350545604908105
-          },
-          {
-            "feature_name": "snappercentage_l4",
-            "raw_value": 65.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.31828458657346254,
-            "contribution_yards": 20.927211567205163
-          },
-          {
-            "feature_name": "yardsaftercatch_l4",
-            "raw_value": 19.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.14220180366648774,
-            "contribution_yards": 2.8084856224131327
-          },
-          {
-            "feature_name": "blocking_te_indicator",
-            "raw_value": 56.889240506329116,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.1063861163627086,
-            "contribution_yards": -6.052225360292445
-          },
-          {
-            "feature_name": "redzonetargets_l4",
-            "raw_value": 0.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 1.434498141021012,
-            "contribution_yards": 1.075873605765759
-          },
-          {
-            "feature_name": "separation_efficiency",
-            "raw_value": 5.92832610590416,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.5427164400912958,
-            "contribution_yards": -3.2174000398966003
-          },
-          {
-            "feature_name": "epa_total_l4",
-            "raw_value": 1.0001727193593979,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.6854361947884285,
-            "contribution_yards": -0.6855545828889005
-          }
-        ]
-      },
-      "_model_file_hash": "1deb0ef33eba24f0af0ff3888a9cead8fb77e048bd18587bfc168b9856ad9978",
       "bookmaker": "consensus",
       "team": "PIT",
       "opponent": "TB",
@@ -3242,111 +2846,6 @@
       "edge": 13.730749895338466,
       "market": "Receiving Yds",
       "odds": -110,
-      "_feature_log": {
-        "intercept": 2.4582917006612206,
-        "final_prediction": 28.230749895338466,
-        "reconciled_prediction": 28.230749895338466,
-        "reconciliation_diff": 0.0,
-        "features": [
-          {
-            "feature_name": "receivingyards_l4",
-            "raw_value": 3.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.05851139709265291,
-            "contribution_yards": -0.2194177390974484
-          },
-          {
-            "feature_name": "receivingtargets_l4",
-            "raw_value": 3.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321307634387,
-            "contribution_yards": 2.2182963922903163
-          },
-          {
-            "feature_name": "targetshare_l4",
-            "raw_value": 3.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321306824555,
-            "contribution_yards": 2.2182963920473666
-          },
-          {
-            "feature_name": "snappercentage_l4",
-            "raw_value": 69.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.276936555593739,
-            "contribution_yards": 19.247090613764858
-          },
-          {
-            "feature_name": "airyards_l4",
-            "raw_value": 50.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.273836110326086,
-            "contribution_yards": -13.691805516304301
-          },
-          {
-            "feature_name": "yardsaftercatch_l4",
-            "raw_value": 0.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.032006188157693925,
-            "contribution_yards": 0.0
-          },
-          {
-            "feature_name": "epa_total_l4",
-            "raw_value": -4.843381129205227,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.8288014743201123,
-            "contribution_yards": -4.014201420579503
-          },
-          {
-            "feature_name": "redzonetargets_l4",
-            "raw_value": 0.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -2.107037115305992,
-            "contribution_yards": -0.526759278826498
-          },
-          {
-            "feature_name": "receptions_l4",
-            "raw_value": 0.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -1.1784688725254515,
-            "contribution_yards": -0.5892344362627258
-          },
-          {
-            "feature_name": "separation_efficiency",
-            "raw_value": 0.8249620150344554,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.07194694588703796,
-            "contribution_yards": 0.05935349745454576
-          },
-          {
-            "feature_name": "air_yards_per_snap",
-            "raw_value": 0.7194141091495085,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 13.561532397910256,
-            "contribution_yards": 9.756357748744804
-          },
-          {
-            "feature_name": "vegas_reception_line",
-            "raw_value": 14.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7803090994100572,
-            "contribution_yards": 11.31448194144583
-          }
-        ]
-      },
-      "_model_file_hash": "1b00e0dc3d049231cc57d3cc30b33400c5bf58efbf6faa42a934e16c7bada0c7",
       "bookmaker": "consensus",
       "team": "NO",
       "opponent": "NYG",
@@ -3735,111 +3234,6 @@
       "edge": 13.39803283516332,
       "market": "Receiving Yds",
       "odds": -110,
-      "_feature_log": {
-        "intercept": 2.4582917006612206,
-        "final_prediction": 38.89803283516332,
-        "reconciled_prediction": 38.89803283516332,
-        "reconciliation_diff": 0.0,
-        "features": [
-          {
-            "feature_name": "receivingyards_l4",
-            "raw_value": 30.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.05851139709265291,
-            "contribution_yards": -1.7699697620527506
-          },
-          {
-            "feature_name": "receivingtargets_l4",
-            "raw_value": 3.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321307634387,
-            "contribution_yards": 2.403154424981176
-          },
-          {
-            "feature_name": "targetshare_l4",
-            "raw_value": 3.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321306824555,
-            "contribution_yards": 2.4031544247179806
-          },
-          {
-            "feature_name": "snappercentage_l4",
-            "raw_value": 72.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.276936555593739,
-            "contribution_yards": 19.939432002749207
-          },
-          {
-            "feature_name": "airyards_l4",
-            "raw_value": 52.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.273836110326086,
-            "contribution_yards": -14.239477736956474
-          },
-          {
-            "feature_name": "yardsaftercatch_l4",
-            "raw_value": 8.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.032006188157693925,
-            "contribution_yards": 0.28005414637982184
-          },
-          {
-            "feature_name": "epa_total_l4",
-            "raw_value": 0.46154579520225525,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.8288014743201123,
-            "contribution_yards": 0.3825298355298778
-          },
-          {
-            "feature_name": "redzonetargets_l4",
-            "raw_value": 0.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -2.107037115305992,
-            "contribution_yards": -0.526759278826498
-          },
-          {
-            "feature_name": "receptions_l4",
-            "raw_value": 2.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -1.1784688725254515,
-            "contribution_yards": -2.356937745050903
-          },
-          {
-            "feature_name": "separation_efficiency",
-            "raw_value": 3.2298070759265713,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.07194694588703796,
-            "contribution_yards": 0.2323747549172613
-          },
-          {
-            "feature_name": "air_yards_per_snap",
-            "raw_value": 0.7222121914973403,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 13.561532397910256,
-            "contribution_yards": 9.794304033156946
-          },
-          {
-            "feature_name": "vegas_reception_line",
-            "raw_value": 25.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7803090994100572,
-            "contribution_yards": 19.89788203495646
-          }
-        ]
-      },
-      "_model_file_hash": "1b00e0dc3d049231cc57d3cc30b33400c5bf58efbf6faa42a934e16c7bada0c7",
       "bookmaker": "consensus",
       "team": "NYG",
       "opponent": "NO",
@@ -3891,16 +3285,16 @@
     {
       "game_id": "82fd5a159fa130e67abab93a9537f70b",
       "player_name": "Ryan Flournoy",
-      "model_prediction": 44.50240305159338,
+      "model_prediction": 44.50240305159339,
       "vegas_line": 31.5,
-      "edge": 13.002403051593383,
+      "edge": 13.00240305159339,
       "market": "Receiving Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.4582917006612206,
-        "final_prediction": 44.50240305159338,
+        "final_prediction": 44.50240305159339,
         "reconciled_prediction": 44.50240305159339,
-        "reconciliation_diff": -7.105427357601002e-15,
+        "reconciliation_diff": 0.0,
         "features": [
           {
             "feature_name": "receivingyards_l4",
@@ -4380,16 +3774,16 @@
     {
       "game_id": "855f58fad5f0f14b239f4f63df27998b",
       "player_name": "Tory Horton",
-      "model_prediction": 16.300012729377585,
+      "model_prediction": 16.30001272937758,
       "vegas_line": 4.5,
-      "edge": 12.800012729377585,
+      "edge": 12.800012729377581,
       "market": "Receiving Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.4582917006612206,
-        "final_prediction": 16.300012729377585,
+        "final_prediction": 16.30001272937758,
         "reconciled_prediction": 16.300012729377585,
-        "reconciliation_diff": 0.0,
+        "reconciliation_diff": -3.552713678800501e-15,
         "features": [
           {
             "feature_name": "receivingyards_l4",
@@ -4545,16 +3939,16 @@
     {
       "game_id": "855f58fad5f0f14b239f4f63df27998b",
       "player_name": "RJ Harvey",
-      "model_prediction": 25.98514859248333,
+      "model_prediction": 25.985148592483327,
       "vegas_line": 14.5,
-      "edge": 12.48514859248333,
+      "edge": 12.485148592483327,
       "market": "Rushing Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.9072479618816303,
-        "final_prediction": 25.98514859248333,
+        "final_prediction": 25.985148592483327,
         "reconciled_prediction": 25.985148592483327,
-        "reconciliation_diff": 3.552713678800501e-15,
+        "reconciliation_diff": 0.0,
         "features": [
           {
             "feature_name": "rushattempts_l4",
@@ -4874,111 +4268,6 @@
       "edge": 12.131707628324953,
       "market": "Receiving Yds",
       "odds": -110,
-      "_feature_log": {
-        "intercept": 2.4582917006612206,
-        "final_prediction": 17.631707628324953,
-        "reconciled_prediction": 17.631707628324953,
-        "reconciliation_diff": 0.0,
-        "features": [
-          {
-            "feature_name": "receivingyards_l4",
-            "raw_value": 7.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.05851139709265291,
-            "contribution_yards": -0.45346332746806006
-          },
-          {
-            "feature_name": "receivingtargets_l4",
-            "raw_value": 1.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321307634387,
-            "contribution_yards": 1.1091481961451581
-          },
-          {
-            "feature_name": "targetshare_l4",
-            "raw_value": 1.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321306824555,
-            "contribution_yards": 1.1091481960236833
-          },
-          {
-            "feature_name": "snappercentage_l4",
-            "raw_value": 18.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.276936555593739,
-            "contribution_yards": 5.192560417382606
-          },
-          {
-            "feature_name": "airyards_l4",
-            "raw_value": 10.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.273836110326086,
-            "contribution_yards": -2.8752791584239032
-          },
-          {
-            "feature_name": "yardsaftercatch_l4",
-            "raw_value": 3.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.032006188157693925,
-            "contribution_yards": 0.09601856447308177
-          },
-          {
-            "feature_name": "epa_total_l4",
-            "raw_value": 0.6275818943977356,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.8288014743201123,
-            "contribution_yards": 0.5201407993334523
-          },
-          {
-            "feature_name": "redzonetargets_l4",
-            "raw_value": 0.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -2.107037115305992,
-            "contribution_yards": -0.526759278826498
-          },
-          {
-            "feature_name": "receptions_l4",
-            "raw_value": 0.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -1.1784688725254515,
-            "contribution_yards": -0.8838516543940886
-          },
-          {
-            "feature_name": "separation_efficiency",
-            "raw_value": 0.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.07194694588703796,
-            "contribution_yards": 0.0
-          },
-          {
-            "feature_name": "air_yards_per_snap",
-            "raw_value": 0.5599701349261372,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 13.561532397910256,
-            "contribution_yards": 7.594053126662987
-          },
-          {
-            "feature_name": "vegas_reception_line",
-            "raw_value": 5.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7803090994100572,
-            "contribution_yards": 4.291700046755315
-          }
-        ]
-      },
-      "_model_file_hash": "1b00e0dc3d049231cc57d3cc30b33400c5bf58efbf6faa42a934e16c7bada0c7",
       "bookmaker": "consensus",
       "team": "DAL",
       "opponent": "GB",
@@ -5356,16 +4645,16 @@
     {
       "game_id": "1cf74afd313e9fd300e1462012b174cb",
       "player_name": "Devaughn Vele",
-      "model_prediction": 55.306476460066804,
+      "model_prediction": 55.3064764600668,
       "vegas_line": 43.5,
-      "edge": 11.806476460066804,
+      "edge": 11.806476460066797,
       "market": "Receiving Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.4582917006612206,
-        "final_prediction": 55.306476460066804,
+        "final_prediction": 55.3064764600668,
         "reconciled_prediction": 55.306476460066804,
-        "reconciliation_diff": 0.0,
+        "reconciliation_diff": -7.105427357601002e-15,
         "features": [
           {
             "feature_name": "receivingyards_l4",
@@ -5523,16 +4812,16 @@
     {
       "game_id": "57418b2cf5aca558b3c98eafac1e264a",
       "player_name": "Chris Rodriguez Jr.",
-      "model_prediction": 27.825184671198574,
+      "model_prediction": 27.825184671198578,
       "vegas_line": 16.5,
-      "edge": 11.325184671198574,
+      "edge": 11.325184671198578,
       "market": "Rushing Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.9072479618816303,
-        "final_prediction": 27.825184671198574,
+        "final_prediction": 27.825184671198578,
         "reconciled_prediction": 27.825184671198578,
-        "reconciliation_diff": -3.552713678800501e-15,
+        "reconciliation_diff": 0.0,
         "features": [
           {
             "feature_name": "rushattempts_l4",
@@ -5839,16 +5128,16 @@
     {
       "game_id": "855f58fad5f0f14b239f4f63df27998b",
       "player_name": "Troy Franklin",
-      "model_prediction": 26.785726018139055,
+      "model_prediction": 26.78572601813906,
       "vegas_line": 16.5,
-      "edge": 11.285726018139055,
+      "edge": 11.285726018139059,
       "market": "Receiving Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.4582917006612206,
-        "final_prediction": 26.785726018139055,
+        "final_prediction": 26.78572601813906,
         "reconciled_prediction": 26.78572601813906,
-        "reconciliation_diff": -3.552713678800501e-15,
+        "reconciliation_diff": 0.0,
         "features": [
           {
             "feature_name": "receivingyards_l4",
@@ -6006,16 +5295,16 @@
     {
       "game_id": "7c312fdf24fb35f58b0e07c2932cc997",
       "player_name": "Jahan Dotson",
-      "model_prediction": 34.49158113759841,
+      "model_prediction": 34.4915811375984,
       "vegas_line": 23.5,
-      "edge": 10.99158113759841,
+      "edge": 10.991581137598402,
       "market": "Receiving Yds",
       "odds": -110,
       "_feature_log": {
         "intercept": 2.4582917006612206,
-        "final_prediction": 34.49158113759841,
+        "final_prediction": 34.4915811375984,
         "reconciled_prediction": 34.4915811375984,
-        "reconciliation_diff": 7.105427357601002e-15,
+        "reconciliation_diff": 0.0,
         "features": [
           {
             "feature_name": "receivingyards_l4",
@@ -6173,116 +5462,11 @@
     {
       "game_id": "82fd5a159fa130e67abab93a9537f70b",
       "player_name": "Bo Melton",
-      "model_prediction": 28.41320756739624,
+      "model_prediction": 28.413207567396235,
       "vegas_line": 17.5,
-      "edge": 10.913207567396238,
+      "edge": 10.913207567396235,
       "market": "Receiving Yds",
       "odds": -110,
-      "_feature_log": {
-        "intercept": 2.4582917006612206,
-        "final_prediction": 28.41320756739624,
-        "reconciled_prediction": 28.413207567396235,
-        "reconciliation_diff": 3.552713678800501e-15,
-        "features": [
-          {
-            "feature_name": "receivingyards_l4",
-            "raw_value": 5.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.05851139709265291,
-            "contribution_yards": -0.2925569854632646
-          },
-          {
-            "feature_name": "receivingtargets_l4",
-            "raw_value": 1.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321307634387,
-            "contribution_yards": 1.2940062288360177
-          },
-          {
-            "feature_name": "targetshare_l4",
-            "raw_value": 1.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321306824555,
-            "contribution_yards": 1.294006228694297
-          },
-          {
-            "feature_name": "snappercentage_l4",
-            "raw_value": 28.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.276936555593739,
-            "contribution_yards": 7.89269183442156
-          },
-          {
-            "feature_name": "airyards_l4",
-            "raw_value": 18.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.273836110326086,
-            "contribution_yards": -5.134427068614113
-          },
-          {
-            "feature_name": "yardsaftercatch_l4",
-            "raw_value": 2.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.032006188157693925,
-            "contribution_yards": 0.08001547039423482
-          },
-          {
-            "feature_name": "epa_total_l4",
-            "raw_value": -1.0522727072238922,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.8288014743201123,
-            "contribution_yards": -0.8721251711339778
-          },
-          {
-            "feature_name": "redzonetargets_l4",
-            "raw_value": 0.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -2.107037115305992,
-            "contribution_yards": -0.0
-          },
-          {
-            "feature_name": "receptions_l4",
-            "raw_value": 0.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -1.1784688725254515,
-            "contribution_yards": -0.8838516543940886
-          },
-          {
-            "feature_name": "separation_efficiency",
-            "raw_value": 0.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.07194694588703796,
-            "contribution_yards": 0.0
-          },
-          {
-            "feature_name": "air_yards_per_snap",
-            "raw_value": 0.6578716536261885,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 13.561532397910256,
-            "contribution_yards": 8.921747744318349
-          },
-          {
-            "feature_name": "vegas_reception_line",
-            "raw_value": 17.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7803090994100572,
-            "contribution_yards": 13.655409239676
-          }
-        ]
-      },
-      "_model_file_hash": "1b00e0dc3d049231cc57d3cc30b33400c5bf58efbf6faa42a934e16c7bada0c7",
       "bookmaker": "consensus",
       "team": "GB",
       "opponent": "DAL",
@@ -6506,111 +5690,6 @@
       "edge": 10.645793629542105,
       "market": "Receiving Yds",
       "odds": -110,
-      "_feature_log": {
-        "intercept": 2.4582917006612206,
-        "final_prediction": 26.145793629542105,
-        "reconciled_prediction": 26.1457936295421,
-        "reconciliation_diff": 3.552713678800501e-15,
-        "features": [
-          {
-            "feature_name": "receivingyards_l4",
-            "raw_value": 24.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.05851139709265291,
-            "contribution_yards": -1.418901379496833
-          },
-          {
-            "feature_name": "receivingtargets_l4",
-            "raw_value": 2.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321307634387,
-            "contribution_yards": 1.8485803269085967
-          },
-          {
-            "feature_name": "targetshare_l4",
-            "raw_value": 2.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7394321306824555,
-            "contribution_yards": 1.8485803267061387
-          },
-          {
-            "feature_name": "snappercentage_l4",
-            "raw_value": 30.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.276936555593739,
-            "contribution_yards": 8.377330806710605
-          },
-          {
-            "feature_name": "airyards_l4",
-            "raw_value": 10.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.273836110326086,
-            "contribution_yards": -2.8068201308423815
-          },
-          {
-            "feature_name": "yardsaftercatch_l4",
-            "raw_value": 17.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.032006188157693925,
-            "contribution_yards": 0.5521067457202202
-          },
-          {
-            "feature_name": "epa_total_l4",
-            "raw_value": 1.590297907590866,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.8288014743201123,
-            "contribution_yards": 1.3180412504194996
-          },
-          {
-            "feature_name": "redzonetargets_l4",
-            "raw_value": 0.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -2.107037115305992,
-            "contribution_yards": -1.5802778364794938
-          },
-          {
-            "feature_name": "receptions_l4",
-            "raw_value": 1.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -1.1784688725254515,
-            "contribution_yards": -1.7677033087881773
-          },
-          {
-            "feature_name": "separation_efficiency",
-            "raw_value": 3.287720581942544,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.07194694588703796,
-            "contribution_yards": 0.23654145480072117
-          },
-          {
-            "feature_name": "air_yards_per_snap",
-            "raw_value": 0.33883177415622623,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 13.561532397910256,
-            "contribution_yards": 4.595078082661073
-          },
-          {
-            "feature_name": "vegas_reception_line",
-            "raw_value": 16.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.7803090994100572,
-            "contribution_yards": 12.484945590560915
-          }
-        ]
-      },
-      "_model_file_hash": "1b00e0dc3d049231cc57d3cc30b33400c5bf58efbf6faa42a934e16c7bada0c7",
       "bookmaker": "consensus",
       "team": "JAX",
       "opponent": "HOU",
@@ -6835,108 +5914,11 @@
     {
       "game_id": "82fd5a159fa130e67abab93a9537f70b",
       "player_name": "Pierre Strong Jr.",
-      "model_prediction": 30.69150262792647,
+      "model_prediction": 30.691502627926468,
       "vegas_line": 20.5,
-      "edge": 10.191502627926472,
+      "edge": 10.191502627926468,
       "market": "Rushing Yds",
       "odds": -110,
-      "_feature_log": {
-        "intercept": 2.9072479618816303,
-        "final_prediction": 30.69150262792647,
-        "reconciled_prediction": 30.691502627926468,
-        "reconciliation_diff": 3.552713678800501e-15,
-        "features": [
-          {
-            "feature_name": "rushattempts_l4",
-            "raw_value": 3.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -1.2360277253125187,
-            "contribution_yards": -3.7080831759375563
-          },
-          {
-            "feature_name": "dual_threat_usage",
-            "raw_value": 5.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.5443698168740911,
-            "contribution_yards": 3.130126447026024
-          },
-          {
-            "feature_name": "share_of_team_rushes",
-            "raw_value": 0.11355311355311355,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.15664362731534104,
-            "contribution_yards": -0.01778737159991052
-          },
-          {
-            "feature_name": "snappercentage_l4",
-            "raw_value": 26.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.2090485456616144,
-            "contribution_yards": 5.539786460032782
-          },
-          {
-            "feature_name": "redzonecarries_l4",
-            "raw_value": 0.25,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -1.1352347406563226,
-            "contribution_yards": -0.28380868516408064
-          },
-          {
-            "feature_name": "receivingtargets_l4",
-            "raw_value": 2.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -1.3248730668302167,
-            "contribution_yards": -3.643400933783096
-          },
-          {
-            "feature_name": "receptions_l4",
-            "raw_value": 2.0,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.24208767889075766,
-            "contribution_yards": -0.4841753577815153
-          },
-          {
-            "feature_name": "team_rushyards_l4",
-            "raw_value": 117.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": -0.016350288556296527,
-            "contribution_yards": -1.925246477503916
-          },
-          {
-            "feature_name": "team_rushplays_l4",
-            "raw_value": 24.75,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.46520481022140453,
-            "contribution_yards": 11.513819052979763
-          },
-          {
-            "feature_name": "epa_total_l4",
-            "raw_value": -1.3711551624536515,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 1.127497103998431,
-            "contribution_yards": -1.5459734747989902
-          },
-          {
-            "feature_name": "vegas_rush_line",
-            "raw_value": 20.5,
-            "was_imputed": false,
-            "imputed_with": null,
-            "coefficient": 0.9370243015890408,
-            "contribution_yards": 19.208998182575336
-          }
-        ]
-      },
-      "_model_file_hash": "9442efc3679a258a23d3d5c5305f45f7209a3ee1c0e776b9b4827e0f5dda9afc",
       "bookmaker": "consensus",
       "team": "GB",
       "opponent": "DAL",
@@ -6986,21 +5968,21 @@
       "rank": 43
     }
   ],
-  "generated_at": "2026-10-15T02:14:28.919822+00:00",
+  "generated_at": "2026-10-15T02:13:56.290724+00:00",
   "count": 43,
   "week": 6,
   "season": 2026,
   "bankroll": 5627.24,
-  "record_week": "36-38-0",
-  "pnl_week": "-$896",
-  "picks_week": 74,
-  "record_season": "182-173-0",
-  "pnl_season": "-$1238",
-  "roi_season": "-2.3%",
+  "record_week": "37-43-0",
+  "pnl_week": "-$1592",
+  "picks_week": 80,
+  "record_season": "183-178-0",
+  "pnl_season": "-$1933",
+  "roi_season": "-3.5%",
   "record_mybets": "9-4-0",
   "pnl_mybets": "+$627",
   "roi_mybets": "+32.2%",
-  "last_updated_ct": "Wednesday, Oct 14 \u00b7 8:14 PM CT",
+  "last_updated_ct": "Wednesday, Oct 14 \u00b7 8:13 PM CT",
   "available_weeks": [
     {
       "week": 6,
@@ -7191,8 +6173,8 @@
           "market": "WR Receiving Yds",
           "direction": "OVER",
           "line": 26.5,
-          "model_prediction": 45.813317269514535,
-          "edge": 19.313317269514535,
+          "model_prediction": 45.81331726951454,
+          "edge": 19.313317269514542,
           "best_book": "FanDuel",
           "odds": -110,
           "game_date": null,
