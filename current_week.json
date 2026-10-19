@@ -18,7 +18,7 @@
       "bet_size": 170.0,
       "confidence_tier": "high",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "won",
       "game_type": "REG",
       "day_generated": "FRI",
       "commence_time": "2026-10-18T20:25:00Z",
@@ -52,7 +52,9 @@
       "game_time_ct": "3:25 PM CT",
       "rank": 1,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 27.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "27f3994841ce8081c0b7349cf3d1e3d7",
@@ -219,7 +221,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 2,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 37.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "1cf74afd313e9fd300e1462012b174cb",
@@ -277,7 +282,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 3,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 0.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "3729ac6d2a66b642850caf2044cdc658",
@@ -444,7 +452,10 @@
       "game_time_ct": "3:05 PM CT",
       "rank": 4,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 30.0,
+      "profit_loss": 154.55
     },
     {
       "week": 6,
@@ -464,7 +475,7 @@
       "bet_size": 170.0,
       "confidence_tier": "high",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "won",
       "game_type": "REG",
       "day_generated": "FRI",
       "commence_time": "2026-10-18T20:25:00Z",
@@ -496,7 +507,9 @@
       "game_time_ct": "3:25 PM CT",
       "rank": 5,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 53.0,
+      "profit_loss": 154.55
     },
     {
       "week": 6,
@@ -516,7 +529,7 @@
       "bet_size": 170.0,
       "confidence_tier": "high",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "lost",
       "game_type": "REG",
       "day_generated": "FRI",
       "commence_time": "2026-10-18T13:30:00Z",
@@ -552,7 +565,9 @@
       "game_time_ct": "8:30 AM CT",
       "rank": 6,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 10.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "57418b2cf5aca558b3c98eafac1e264a",
@@ -713,7 +728,10 @@
       "game_time_ct": "8:30 AM CT",
       "rank": 7,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 8.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "3729ac6d2a66b642850caf2044cdc658",
@@ -872,7 +890,10 @@
       "game_time_ct": "3:05 PM CT",
       "rank": 8,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 28.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "7c312fdf24fb35f58b0e07c2932cc997",
@@ -1033,7 +1054,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 9,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 3.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "57418b2cf5aca558b3c98eafac1e264a",
@@ -1202,7 +1226,10 @@
       "game_time_ct": "8:30 AM CT",
       "rank": 10,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 83.0,
+      "profit_loss": 154.55
     },
     {
       "week": 6,
@@ -1222,7 +1249,7 @@
       "bet_size": 170.0,
       "confidence_tier": "high",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "won",
       "game_type": "REG",
       "day_generated": "THU",
       "commence_time": "2026-10-18T13:30:00Z",
@@ -1258,7 +1285,9 @@
       "game_time_ct": "8:30 AM CT",
       "rank": 11,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 34.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "7c312fdf24fb35f58b0e07c2932cc997",
@@ -1425,7 +1454,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 12,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 18.0,
+      "profit_loss": -170.0
     },
     {
       "week": 6,
@@ -1541,7 +1573,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 14,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 4.0,
+      "profit_loss": -170.0
     },
     {
       "week": 6,
@@ -1561,7 +1596,7 @@
       "bet_size": 170.0,
       "confidence_tier": "high",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "won",
       "game_type": "REG",
       "day_generated": "THU",
       "commence_time": "2026-10-18T20:25:00Z",
@@ -1595,7 +1630,9 @@
       "game_time_ct": "3:25 PM CT",
       "rank": 15,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 21.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "855f58fad5f0f14b239f4f63df27998b",
@@ -1756,7 +1793,10 @@
       "game_time_ct": "7:15 PM CT",
       "rank": 16,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 16.0,
+      "profit_loss": -170.0
     },
     {
       "week": 6,
@@ -1776,7 +1816,7 @@
       "bet_size": 170.0,
       "confidence_tier": "high",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "lost",
       "game_type": "REG",
       "day_generated": "FRI",
       "commence_time": "2026-10-18T20:25:00Z",
@@ -1810,7 +1850,9 @@
       "game_time_ct": "3:25 PM CT",
       "rank": 17,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 4.0,
+      "profit_loss": -170.0
     },
     {
       "week": 6,
@@ -1830,7 +1872,7 @@
       "bet_size": 170.0,
       "confidence_tier": "high",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "lost",
       "game_type": "REG",
       "day_generated": "THU",
       "commence_time": "2026-10-18T20:25:00Z",
@@ -1864,7 +1906,9 @@
       "game_time_ct": "3:25 PM CT",
       "rank": 18,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 6.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "84aa9e190e625d7e9cd67e1f157a45b4",
@@ -2025,7 +2069,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 19,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 27.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "1cf74afd313e9fd300e1462012b174cb",
@@ -2085,7 +2132,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 20,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 0.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "84aa9e190e625d7e9cd67e1f157a45b4",
@@ -2254,7 +2304,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 21,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 3.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "84aa9e190e625d7e9cd67e1f157a45b4",
@@ -2423,7 +2476,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 22,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 0.0,
+      "profit_loss": -170.0
     },
     {
       "week": 6,
@@ -2443,7 +2499,7 @@
       "bet_size": 170.0,
       "confidence_tier": "high",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "won",
       "game_type": "REG",
       "day_generated": "FRI",
       "commence_time": "2026-10-18T17:00:00Z",
@@ -2479,7 +2535,9 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 23,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 39.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "855f58fad5f0f14b239f4f63df27998b",
@@ -2648,7 +2706,10 @@
       "game_time_ct": "7:15 PM CT",
       "rank": 24,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 50.0,
+      "profit_loss": 154.55
     },
     {
       "week": 6,
@@ -2668,7 +2729,7 @@
       "bet_size": 170.0,
       "confidence_tier": "medium",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "won",
       "game_type": "REG",
       "day_generated": "FRI",
       "commence_time": "2026-10-18T17:00:00Z",
@@ -2702,7 +2763,9 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 25,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 51.0,
+      "profit_loss": 154.55
     },
     {
       "week": 6,
@@ -2722,7 +2785,7 @@
       "bet_size": 170.0,
       "confidence_tier": "medium",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "lost",
       "game_type": "REG",
       "day_generated": "FRI",
       "commence_time": "2026-10-18T17:00:00Z",
@@ -2758,7 +2821,9 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 26,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 21.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "f122527f003276d3bca19efa48c902c1",
@@ -3086,7 +3151,10 @@
       "game_time_ct": "7:15 PM CT",
       "rank": 28,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 66.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "84aa9e190e625d7e9cd67e1f157a45b4",
@@ -3247,7 +3315,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 29,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 0.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "57418b2cf5aca558b3c98eafac1e264a",
@@ -3416,7 +3487,10 @@
       "game_time_ct": "8:30 AM CT",
       "rank": 30,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 0.0,
+      "profit_loss": -170.0
     },
     {
       "week": 6,
@@ -3436,7 +3510,7 @@
       "bet_size": 170.0,
       "confidence_tier": "medium",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "lost",
       "game_type": "REG",
       "day_generated": "THU",
       "commence_time": "2026-10-16T00:15:00Z",
@@ -3470,7 +3544,9 @@
       "game_time_ct": "7:15 PM CT",
       "rank": 31,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 0.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "27f3994841ce8081c0b7349cf3d1e3d7",
@@ -3532,7 +3608,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 32,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 25.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "1cf74afd313e9fd300e1462012b174cb",
@@ -3590,7 +3669,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 33,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 9.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "57418b2cf5aca558b3c98eafac1e264a",
@@ -3757,7 +3839,10 @@
       "game_time_ct": "8:30 AM CT",
       "rank": 34,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 16.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "84aa9e190e625d7e9cd67e1f157a45b4",
@@ -3926,7 +4011,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 35,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 22.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "1cf74afd313e9fd300e1462012b174cb",
@@ -3984,7 +4072,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 36,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 19.0,
+      "profit_loss": -170.0
     },
     {
       "week": 6,
@@ -4004,7 +4095,7 @@
       "bet_size": 170.0,
       "confidence_tier": "medium",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "lost",
       "game_type": "REG",
       "day_generated": "THU",
       "commence_time": "2026-10-18T20:25:00Z",
@@ -4038,7 +4129,9 @@
       "game_time_ct": "3:25 PM CT",
       "rank": 37,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 4.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "82fd5a159fa130e67abab93a9537f70b",
@@ -4205,7 +4298,10 @@
       "game_time_ct": "7:20 PM CT",
       "rank": 38,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 40.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "27f3994841ce8081c0b7349cf3d1e3d7",
@@ -4372,7 +4468,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 39,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 93.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "84aa9e190e625d7e9cd67e1f157a45b4",
@@ -4533,7 +4632,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 40,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 1.0,
+      "profit_loss": -170.0
     },
     {
       "week": 6,
@@ -4553,7 +4655,7 @@
       "bet_size": 170.0,
       "confidence_tier": "medium",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "lost",
       "game_type": "REG",
       "day_generated": "THU",
       "commence_time": "2026-10-18T17:00:00Z",
@@ -4589,7 +4691,9 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 41,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 1.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "855f58fad5f0f14b239f4f63df27998b",
@@ -4756,7 +4860,10 @@
       "game_time_ct": "7:15 PM CT",
       "rank": 42,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 13.0,
+      "profit_loss": 154.55
     },
     {
       "week": 6,
@@ -4776,7 +4883,7 @@
       "bet_size": 170.0,
       "confidence_tier": "medium",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "lost",
       "game_type": "REG",
       "day_generated": "FRI",
       "commence_time": "2026-10-18T20:25:00Z",
@@ -4810,7 +4917,9 @@
       "game_time_ct": "3:25 PM CT",
       "rank": 43,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 17.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "855f58fad5f0f14b239f4f63df27998b",
@@ -4971,7 +5080,10 @@
       "game_time_ct": "7:15 PM CT",
       "rank": 44,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 25.0,
+      "profit_loss": 154.55
     },
     {
       "week": 6,
@@ -4991,7 +5103,7 @@
       "bet_size": 170.0,
       "confidence_tier": "medium",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "won",
       "game_type": "REG",
       "day_generated": "FRI",
       "commence_time": "2026-10-18T17:00:00Z",
@@ -5029,7 +5141,9 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 45,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 120.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "27f3994841ce8081c0b7349cf3d1e3d7",
@@ -5196,7 +5310,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 46,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 48.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "82fd5a159fa130e67abab93a9537f70b",
@@ -5415,7 +5532,10 @@
       "game_time_ct": "7:15 PM CT",
       "rank": 48,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 20.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "855f58fad5f0f14b239f4f63df27998b",
@@ -5584,7 +5704,10 @@
       "game_time_ct": "7:15 PM CT",
       "rank": 49,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 19.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "1cf74afd313e9fd300e1462012b174cb",
@@ -5753,7 +5876,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 50,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 42.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "57418b2cf5aca558b3c98eafac1e264a",
@@ -5912,7 +6038,10 @@
       "game_time_ct": "8:30 AM CT",
       "rank": 51,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 55.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "45b2690b350ed45145c7a716b18e8e66",
@@ -6073,7 +6202,10 @@
       "game_time_ct": "3:25 PM CT",
       "rank": 52,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 95.0,
+      "profit_loss": 154.55
     },
     {
       "week": 6,
@@ -6093,7 +6225,7 @@
       "bet_size": 170.0,
       "confidence_tier": "medium",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "lost",
       "game_type": "REG",
       "day_generated": "FRI",
       "commence_time": "2026-10-19T00:20:00Z",
@@ -6127,7 +6259,9 @@
       "game_time_ct": "7:20 PM CT",
       "rank": 53,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 0.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "855f58fad5f0f14b239f4f63df27998b",
@@ -6296,7 +6430,10 @@
       "game_time_ct": "7:15 PM CT",
       "rank": 54,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 2.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "7c312fdf24fb35f58b0e07c2932cc997",
@@ -6465,7 +6602,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 55,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 87.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "82fd5a159fa130e67abab93a9537f70b",
@@ -6523,7 +6663,10 @@
       "game_time_ct": "7:20 PM CT",
       "rank": 56,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 0.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "3729ac6d2a66b642850caf2044cdc658",
@@ -6692,7 +6835,10 @@
       "game_time_ct": "3:05 PM CT",
       "rank": 57,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 47.0,
+      "profit_loss": 154.55
     },
     {
       "week": 6,
@@ -6712,7 +6858,7 @@
       "bet_size": 170.0,
       "confidence_tier": "medium",
       "pick_cancelled": false,
-      "status": "pending",
+      "status": "won",
       "game_type": "REG",
       "day_generated": "THU",
       "commence_time": "2026-10-18T17:00:00Z",
@@ -6746,7 +6892,9 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 58,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "actual_result": 57.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "57418b2cf5aca558b3c98eafac1e264a",
@@ -6810,7 +6958,10 @@
       "game_time_ct": "8:30 AM CT",
       "rank": 59,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "lost",
+      "actual_result": 0.0,
+      "profit_loss": -170.0
     },
     {
       "game_id": "84aa9e190e625d7e9cd67e1f157a45b4",
@@ -6979,7 +7130,10 @@
       "game_time_ct": "12:00 PM CT",
       "rank": 60,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 82.0,
+      "profit_loss": 154.55
     },
     {
       "game_id": "82fd5a159fa130e67abab93a9537f70b",
@@ -7037,7 +7191,10 @@
       "game_time_ct": "7:20 PM CT",
       "rank": 61,
       "friday_status": "cleared",
-      "flag_reason": null
+      "flag_reason": null,
+      "status": "won",
+      "actual_result": 28.0,
+      "profit_loss": 154.55
     }
   ],
   "generated_at": "2026-10-17T02:18:30.046180+00:00",
@@ -7045,12 +7202,12 @@
   "week": 6,
   "season": 2026,
   "bankroll": 5627.24,
-  "record_week": "37-43-0",
-  "pnl_week": "-$1592",
-  "picks_week": 80,
-  "record_season": "183-178-0",
-  "pnl_season": "-$1933",
-  "roi_season": "-3.5%",
+  "record_week": "31-31-0",
+  "pnl_week": "-$479",
+  "picks_week": 62,
+  "record_season": "214-209-0",
+  "pnl_season": "-$2412",
+  "roi_season": "-3.6%",
   "record_mybets": "9-4-0",
   "pnl_mybets": "+$627",
   "roi_mybets": "+32.2%",
