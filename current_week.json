@@ -3,6 +3,60 @@
     {
       "week": 8,
       "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Noah Gray",
+      "team": "KC",
+      "opponent": "DEN",
+      "market": "Receiving Yds",
+      "model_prediction": 41.11794321066046,
+      "vegas_line": 13.5,
+      "best_line": 13.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 27.617943210660457,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T21:25:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 13.5,
+      "book_lines": {
+        "DraftKings": 13.5,
+        "FanDuel": 14.5,
+        "BetRivers": 13.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4052,
+      "team_abbr": "KC",
+      "home_team": "Denver Broncos",
+      "away_team": "Kansas City Chiefs",
+      "opponent_abbr": "DEN",
+      "lines": {
+        "DraftKings": 13.5,
+        "FanDuel": 14.5,
+        "BetRivers": 13.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 27.6,
+      "is_starred": true,
+      "game_time_ct": "3:25 PM CT",
+      "rank": 1
+    },
+    {
+      "week": 8,
+      "season": 2026,
       "model_name": "WR_Receiving_Yards_V3_vegas",
       "player_name": "Chris Bell",
       "team": "MIA",
@@ -52,7 +106,7 @@
       "confidence_pct": 25.0,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 1
+      "rank": 2
     },
     {
       "week": 8,
@@ -102,7 +156,59 @@
       "confidence_pct": 24.6,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Will Kacmarek",
+      "team": "MIA",
+      "opponent": "NE",
+      "market": "Receiving Yds",
+      "model_prediction": 22.72685550963404,
+      "vegas_line": 2.0,
+      "best_line": 0.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 22.22685550963404,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T21:25:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 2.0,
+      "book_lines": {
+        "DraftKings": 0.5,
+        "FanDuel": 3.5
+      },
+      "line_disparity": 3.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4053,
+      "team_abbr": "MIA",
+      "home_team": "Miami Dolphins",
+      "away_team": "New England Patriots",
+      "opponent_abbr": "NE",
+      "lines": {
+        "DraftKings": 0.5,
+        "FanDuel": 3.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 22.2,
+      "is_starred": true,
+      "game_time_ct": "3:25 PM CT",
+      "rank": 4
     },
     {
       "week": 8,
@@ -158,7 +264,7 @@
       "confidence_pct": 22.1,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 3
+      "rank": 5
     },
     {
       "week": 8,
@@ -212,7 +318,165 @@
       "confidence_pct": 21.3,
       "is_starred": true,
       "game_time_ct": "7:15 PM CT",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Oronde Gadsden II",
+      "team": "LAC",
+      "opponent": "LAR",
+      "market": "Receiving Yds",
+      "model_prediction": 35.38198780307713,
+      "vegas_line": 15.5,
+      "best_line": 15.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 19.88198780307713,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T21:05:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 15.5,
+      "book_lines": {
+        "DraftKings": 15.5,
+        "FanDuel": 15.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4050,
+      "team_abbr": "LAC",
+      "home_team": "Los Angeles Rams",
+      "away_team": "Los Angeles Chargers",
+      "opponent_abbr": "LAR",
+      "lines": {
+        "DraftKings": 15.5,
+        "FanDuel": 15.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 19.9,
+      "is_starred": true,
+      "game_time_ct": "3:05 PM CT",
+      "rank": 7
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Nate Boerkircher",
+      "team": "JAX",
+      "opponent": "IND",
+      "market": "Receiving Yds",
+      "model_prediction": 26.06612198408527,
+      "vegas_line": 6.5,
+      "best_line": 6.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 19.56612198408527,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 6.5,
+      "book_lines": {
+        "FanDuel": 6.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4049,
+      "team_abbr": "JAX",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Indianapolis Colts",
+      "opponent_abbr": "IND",
+      "lines": {
+        "FanDuel": 6.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 19.6,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 8
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Jauan Jennings",
+      "team": "MIN",
+      "opponent": "DET",
+      "market": "Receiving Yds",
+      "model_prediction": 32.099481952490024,
+      "vegas_line": 13.5,
+      "best_line": 13.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 18.599481952490024,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 13.5,
+      "book_lines": {
+        "DraftKings": 13.5,
+        "FanDuel": 13.5,
+        "BetRivers": 14.5,
+        "BetMGM": 13.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4036,
+      "team_abbr": "MIN",
+      "home_team": "Detroit Lions",
+      "away_team": "Minnesota Vikings",
+      "opponent_abbr": "DET",
+      "lines": {
+        "DraftKings": 13.5,
+        "FanDuel": 13.5,
+        "BetRivers": 14.5,
+        "BetMGM": 13.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 18.6,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 9
     },
     {
       "week": 8,
@@ -266,7 +530,7 @@
       "confidence_pct": 18.6,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 5
+      "rank": 10
     },
     {
       "week": 8,
@@ -320,7 +584,7 @@
       "confidence_pct": 18.0,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 6
+      "rank": 11
     },
     {
       "week": 8,
@@ -374,7 +638,7 @@
       "confidence_pct": 18.0,
       "is_starred": true,
       "game_time_ct": "7:15 PM CT",
-      "rank": 7
+      "rank": 12
     },
     {
       "week": 8,
@@ -428,7 +692,7 @@
       "confidence_pct": 17.6,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 8
+      "rank": 13
     },
     {
       "week": 8,
@@ -482,7 +746,7 @@
       "confidence_pct": 17.6,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 9
+      "rank": 14
     },
     {
       "week": 8,
@@ -538,7 +802,7 @@
       "confidence_pct": 17.5,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 10
+      "rank": 15
     },
     {
       "week": 8,
@@ -594,7 +858,7 @@
       "confidence_pct": 17.5,
       "is_starred": true,
       "game_time_ct": "7:15 PM CT",
-      "rank": 11
+      "rank": 16
     },
     {
       "week": 8,
@@ -644,7 +908,59 @@
       "confidence_pct": 17.3,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 12
+      "rank": 17
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "RB_Rushing_Yards_V4_vegas",
+      "player_name": "Kenny Gainwell",
+      "team": "TB",
+      "opponent": "ATL",
+      "market": "Rushing Yds",
+      "model_prediction": 31.512697681734018,
+      "vegas_line": 14.5,
+      "best_line": 14.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 17.012697681734018,
+      "kelly_fraction": 0.3196,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 14.5,
+      "book_lines": {
+        "DraftKings": 14.5,
+        "FanDuel": 14.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4026,
+      "team_abbr": "TB",
+      "home_team": "Tampa Bay Buccaneers",
+      "away_team": "Atlanta Falcons",
+      "opponent_abbr": "ATL",
+      "lines": {
+        "DraftKings": 14.5,
+        "FanDuel": 14.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 17.0,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 18
     },
     {
       "week": 8,
@@ -698,7 +1014,161 @@
       "confidence_pct": 17.0,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 13
+      "rank": 19
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Darius Cooper",
+      "team": "PHI",
+      "opponent": "WAS",
+      "market": "Receiving Yds",
+      "model_prediction": 42.39887936537579,
+      "vegas_line": 25.5,
+      "best_line": 25.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 16.89887936537579,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-02T01:20:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 25.5,
+      "book_lines": {
+        "FanDuel": 25.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4046,
+      "team_abbr": "PHI",
+      "home_team": "Washington Commanders",
+      "away_team": "Philadelphia Eagles",
+      "opponent_abbr": "WAS",
+      "lines": {
+        "FanDuel": 25.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 16.9,
+      "is_starred": true,
+      "game_time_ct": "7:20 PM CT",
+      "rank": 20
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Xavier Worthy",
+      "team": "KC",
+      "opponent": "DEN",
+      "market": "Receiving Yds",
+      "model_prediction": 49.31013070637198,
+      "vegas_line": 33.5,
+      "best_line": 32.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 16.81013070637198,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T21:25:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 33.5,
+      "book_lines": {
+        "DraftKings": 32.5,
+        "FanDuel": 33.5,
+        "BetRivers": 34.5
+      },
+      "line_disparity": 2.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4045,
+      "team_abbr": "KC",
+      "home_team": "Denver Broncos",
+      "away_team": "Kansas City Chiefs",
+      "opponent_abbr": "DEN",
+      "lines": {
+        "DraftKings": 32.5,
+        "FanDuel": 33.5,
+        "BetRivers": 34.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 16.8,
+      "is_starred": true,
+      "game_time_ct": "3:25 PM CT",
+      "rank": 21
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Makai Lemon",
+      "team": "PHI",
+      "opponent": "WAS",
+      "market": "Receiving Yds",
+      "model_prediction": 60.02913992419238,
+      "vegas_line": 43.5,
+      "best_line": 43.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 16.52913992419238,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-02T01:20:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 43.5,
+      "book_lines": {
+        "FanDuel": 43.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4047,
+      "team_abbr": "PHI",
+      "home_team": "Washington Commanders",
+      "away_team": "Philadelphia Eagles",
+      "opponent_abbr": "WAS",
+      "lines": {
+        "FanDuel": 43.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 16.5,
+      "is_starred": true,
+      "game_time_ct": "7:20 PM CT",
+      "rank": 22
     },
     {
       "game_id": "ab2865e9f2d4b012de8bc6fb6de11a7c",
@@ -758,7 +1228,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-29",
       "game_time_ct": "7:15 PM CT",
-      "rank": 14
+      "rank": 23
     },
     {
       "week": 8,
@@ -812,7 +1282,7 @@
       "confidence_pct": 15.9,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 15
+      "rank": 24
     },
     {
       "week": 8,
@@ -866,7 +1336,7 @@
       "confidence_pct": 15.8,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 16
+      "rank": 25
     },
     {
       "game_id": "ab2865e9f2d4b012de8bc6fb6de11a7c",
@@ -928,7 +1398,7 @@
       "day_generated": "TUE",
       "game_date": "2026-10-29",
       "game_time_ct": "7:15 PM CT",
-      "rank": 17
+      "rank": 26
     },
     {
       "week": 8,
@@ -982,7 +1452,7 @@
       "confidence_pct": 15.7,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 18
+      "rank": 27
     },
     {
       "week": 8,
@@ -1034,7 +1504,7 @@
       "confidence_pct": 15.7,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 19
+      "rank": 28
     },
     {
       "week": 8,
@@ -1086,7 +1556,7 @@
       "confidence_pct": 15.6,
       "is_starred": true,
       "game_time_ct": "7:15 PM CT",
-      "rank": 20
+      "rank": 29
     },
     {
       "week": 8,
@@ -1142,7 +1612,109 @@
       "confidence_pct": 15.5,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 21
+      "rank": 30
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "RB_Rushing_Yards_V4_vegas",
+      "player_name": "Sione Vaki",
+      "team": "DET",
+      "opponent": "MIN",
+      "market": "Rushing Yds",
+      "model_prediction": 19.95879557251292,
+      "vegas_line": 4.5,
+      "best_line": 4.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 15.45879557251292,
+      "kelly_fraction": 0.3196,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 4.5,
+      "book_lines": {
+        "DraftKings": 4.5,
+        "FanDuel": 4.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4028,
+      "team_abbr": "DET",
+      "home_team": "Detroit Lions",
+      "away_team": "Minnesota Vikings",
+      "opponent_abbr": "MIN",
+      "lines": {
+        "DraftKings": 4.5,
+        "FanDuel": 4.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 15.5,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 31
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Josh Downs",
+      "team": "IND",
+      "opponent": "JAX",
+      "market": "Receiving Yds",
+      "model_prediction": 47.90567512111893,
+      "vegas_line": 32.5,
+      "best_line": 32.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 15.405675121118932,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 32.5,
+      "book_lines": {
+        "FanDuel": 32.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4041,
+      "team_abbr": "IND",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Indianapolis Colts",
+      "opponent_abbr": "JAX",
+      "lines": {
+        "FanDuel": 32.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 15.4,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 32
     },
     {
       "week": 8,
@@ -1194,7 +1766,7 @@
       "confidence_pct": 15.4,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 22
+      "rank": 33
     },
     {
       "week": 8,
@@ -1250,7 +1822,7 @@
       "confidence_pct": 15.3,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 23
+      "rank": 34
     },
     {
       "week": 8,
@@ -1304,7 +1876,59 @@
       "confidence_pct": 15.3,
       "is_starred": true,
       "game_time_ct": "7:20 PM CT",
-      "rank": 24
+      "rank": 35
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Elijah Higgins",
+      "team": "ARI",
+      "opponent": "DAL",
+      "market": "Receiving Yds",
+      "model_prediction": 32.760934598290504,
+      "vegas_line": 17.5,
+      "best_line": 17.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 15.260934598290504,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "high",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 17.5,
+      "book_lines": {
+        "DraftKings": 17.5,
+        "FanDuel": 17.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4048,
+      "team_abbr": "ARI",
+      "home_team": "Dallas Cowboys",
+      "away_team": "Arizona Cardinals",
+      "opponent_abbr": "DAL",
+      "lines": {
+        "DraftKings": 17.5,
+        "FanDuel": 17.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 15.3,
+      "is_starred": true,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 36
     },
     {
       "week": 8,
@@ -1358,7 +1982,7 @@
       "confidence_pct": 15.2,
       "is_starred": true,
       "game_time_ct": "3:25 PM CT",
-      "rank": 25
+      "rank": 37
     },
     {
       "week": 8,
@@ -1410,7 +2034,7 @@
       "confidence_pct": 15.2,
       "is_starred": true,
       "game_time_ct": "12:00 PM CT",
-      "rank": 26
+      "rank": 38
     },
     {
       "week": 8,
@@ -1464,7 +2088,57 @@
       "confidence_pct": 14.9,
       "is_starred": false,
       "game_time_ct": "7:20 PM CT",
-      "rank": 27
+      "rank": 39
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Laquon Treadwell",
+      "team": "IND",
+      "opponent": "JAX",
+      "market": "Receiving Yds",
+      "model_prediction": 40.33152783237733,
+      "vegas_line": 25.5,
+      "best_line": 25.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 14.831527832377333,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 25.5,
+      "book_lines": {
+        "FanDuel": 25.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4042,
+      "team_abbr": "IND",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Indianapolis Colts",
+      "opponent_abbr": "JAX",
+      "lines": {
+        "FanDuel": 25.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 14.8,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 40
     },
     {
       "week": 8,
@@ -1518,7 +2192,7 @@
       "confidence_pct": 14.7,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 28
+      "rank": 41
     },
     {
       "week": 8,
@@ -1572,7 +2246,7 @@
       "confidence_pct": 14.6,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 29
+      "rank": 42
     },
     {
       "week": 8,
@@ -1626,7 +2300,7 @@
       "confidence_pct": 14.6,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 30
+      "rank": 43
     },
     {
       "week": 8,
@@ -1680,7 +2354,59 @@
       "confidence_pct": 14.4,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 31
+      "rank": 44
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Keenan Allen",
+      "team": "IND",
+      "opponent": "JAX",
+      "market": "Receiving Yds",
+      "model_prediction": 50.87722746240691,
+      "vegas_line": 38.0,
+      "best_line": 36.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 14.377227462406907,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 38.0,
+      "book_lines": {
+        "DraftKings": 39.5,
+        "FanDuel": 36.5
+      },
+      "line_disparity": 3.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4037,
+      "team_abbr": "IND",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Indianapolis Colts",
+      "opponent_abbr": "JAX",
+      "lines": {
+        "DraftKings": 39.5,
+        "FanDuel": 36.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 14.4,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 45
     },
     {
       "week": 8,
@@ -1732,7 +2458,7 @@
       "confidence_pct": 14.3,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 32
+      "rank": 46
     },
     {
       "week": 8,
@@ -1788,7 +2514,7 @@
       "confidence_pct": 14.2,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 33
+      "rank": 47
     },
     {
       "week": 8,
@@ -1844,7 +2570,7 @@
       "confidence_pct": 14.2,
       "is_starred": false,
       "game_time_ct": "3:05 PM CT",
-      "rank": 34
+      "rank": 48
     },
     {
       "game_id": "52e7ee9c42525e6deec02da32dc2fad8",
@@ -1904,7 +2630,7 @@
       "day_generated": "TUE",
       "game_date": "2026-11-01",
       "game_time_ct": "12:00 PM CT",
-      "rank": 35
+      "rank": 49
     },
     {
       "week": 8,
@@ -1956,7 +2682,7 @@
       "confidence_pct": 13.9,
       "is_starred": false,
       "game_time_ct": "7:15 PM CT",
-      "rank": 36
+      "rank": 50
     },
     {
       "week": 8,
@@ -2010,7 +2736,7 @@
       "confidence_pct": 13.9,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 37
+      "rank": 51
     },
     {
       "game_id": "7d664fbcd39350e559d83c0068ba7169",
@@ -2066,7 +2792,7 @@
       "day_generated": "TUE",
       "game_date": "2026-11-02",
       "game_time_ct": "7:20 PM CT",
-      "rank": 38
+      "rank": 52
     },
     {
       "week": 8,
@@ -2120,7 +2846,7 @@
       "confidence_pct": 13.7,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 39
+      "rank": 53
     },
     {
       "week": 8,
@@ -2174,7 +2900,7 @@
       "confidence_pct": 13.7,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 40
+      "rank": 54
     },
     {
       "week": 8,
@@ -2228,7 +2954,7 @@
       "confidence_pct": 13.6,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 41
+      "rank": 55
     },
     {
       "week": 8,
@@ -2280,7 +3006,57 @@
       "confidence_pct": 13.6,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 42
+      "rank": 56
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Brian Thomas Jr",
+      "team": "JAX",
+      "opponent": "IND",
+      "market": "Receiving Yds",
+      "model_prediction": 22.062581557181062,
+      "vegas_line": 8.5,
+      "best_line": 8.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 13.562581557181062,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 8.5,
+      "book_lines": {
+        "FanDuel": 8.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4040,
+      "team_abbr": "JAX",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Indianapolis Colts",
+      "opponent_abbr": "IND",
+      "lines": {
+        "FanDuel": 8.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 13.6,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 57
     },
     {
       "week": 8,
@@ -2336,7 +3112,61 @@
       "confidence_pct": 13.6,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 43
+      "rank": 58
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Isaac TeSlaa",
+      "team": "DET",
+      "opponent": "MIN",
+      "market": "Receiving Yds",
+      "model_prediction": 31.003967850444557,
+      "vegas_line": 17.5,
+      "best_line": 17.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 13.503967850444557,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 17.5,
+      "book_lines": {
+        "DraftKings": 17.5,
+        "FanDuel": 19.5,
+        "BetRivers": 17.5
+      },
+      "line_disparity": 2.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4035,
+      "team_abbr": "DET",
+      "home_team": "Detroit Lions",
+      "away_team": "Minnesota Vikings",
+      "opponent_abbr": "MIN",
+      "lines": {
+        "DraftKings": 17.5,
+        "FanDuel": 19.5,
+        "BetRivers": 17.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 13.5,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 59
     },
     {
       "game_id": "7d664fbcd39350e559d83c0068ba7169",
@@ -2392,7 +3222,7 @@
       "day_generated": "TUE",
       "game_date": "2026-11-02",
       "game_time_ct": "7:20 PM CT",
-      "rank": 44
+      "rank": 60
     },
     {
       "week": 8,
@@ -2448,7 +3278,61 @@
       "confidence_pct": 13.1,
       "is_starred": false,
       "game_time_ct": "3:05 PM CT",
-      "rank": 45
+      "rank": 61
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Jalen Nailor",
+      "team": "LV",
+      "opponent": "NYJ",
+      "market": "Receiving Yds",
+      "model_prediction": 30.603988929102144,
+      "vegas_line": 17.5,
+      "best_line": 17.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 13.103988929102144,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 17.5,
+      "book_lines": {
+        "DraftKings": 17.5,
+        "FanDuel": 17.5,
+        "BetRivers": 17.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4043,
+      "team_abbr": "LV",
+      "home_team": "New York Jets",
+      "away_team": "Las Vegas Raiders",
+      "opponent_abbr": "NYJ",
+      "lines": {
+        "DraftKings": 17.5,
+        "FanDuel": 17.5,
+        "BetRivers": 17.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 13.1,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 62
     },
     {
       "week": 8,
@@ -2502,7 +3386,61 @@
       "confidence_pct": 13.1,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 46
+      "rank": 63
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "RB_Rushing_Yards_V4_vegas",
+      "player_name": "Seth McGowan",
+      "team": "IND",
+      "opponent": "JAX",
+      "market": "Rushing Yds",
+      "model_prediction": 32.550468488637364,
+      "vegas_line": 20.5,
+      "best_line": 19.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 13.050468488637364,
+      "kelly_fraction": 0.3196,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 20.5,
+      "book_lines": {
+        "DraftKings": 20.5,
+        "FanDuel": 19.5,
+        "BetRivers": 20.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4029,
+      "team_abbr": "IND",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Indianapolis Colts",
+      "opponent_abbr": "JAX",
+      "lines": {
+        "DraftKings": 20.5,
+        "FanDuel": 19.5,
+        "BetRivers": 20.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 13.1,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 64
     },
     {
       "week": 8,
@@ -2556,7 +3494,7 @@
       "confidence_pct": 13.0,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 47
+      "rank": 65
     },
     {
       "week": 8,
@@ -2610,7 +3548,113 @@
       "confidence_pct": 12.9,
       "is_starred": false,
       "game_time_ct": "7:20 PM CT",
-      "rank": 48
+      "rank": 66
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "RB_Rushing_Yards_V4_vegas",
+      "player_name": "Emmett Johnson",
+      "team": "KC",
+      "opponent": "DEN",
+      "market": "Rushing Yds",
+      "model_prediction": 20.349973433454746,
+      "vegas_line": 7.5,
+      "best_line": 7.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 12.849973433454746,
+      "kelly_fraction": 0.3196,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T21:25:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 7.5,
+      "book_lines": {
+        "DraftKings": 7.5,
+        "FanDuel": 7.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4031,
+      "team_abbr": "KC",
+      "home_team": "Denver Broncos",
+      "away_team": "Kansas City Chiefs",
+      "opponent_abbr": "DEN",
+      "lines": {
+        "DraftKings": 7.5,
+        "FanDuel": 7.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 12.8,
+      "is_starred": false,
+      "game_time_ct": "3:25 PM CT",
+      "rank": 67
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Calvin Ridley",
+      "team": "TEN",
+      "opponent": "CIN",
+      "market": "Receiving Yds",
+      "model_prediction": 36.09222643596165,
+      "vegas_line": 24.5,
+      "best_line": 23.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 12.59222643596165,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 24.5,
+      "book_lines": {
+        "DraftKings": 23.5,
+        "FanDuel": 24.5,
+        "BetMGM": 24.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4034,
+      "team_abbr": "TEN",
+      "home_team": "Cincinnati Bengals",
+      "away_team": "Tennessee Titans",
+      "opponent_abbr": "CIN",
+      "lines": {
+        "DraftKings": 23.5,
+        "FanDuel": 24.5,
+        "BetMGM": 24.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 12.6,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 68
     },
     {
       "week": 8,
@@ -2664,7 +3708,161 @@
       "confidence_pct": 12.5,
       "is_starred": false,
       "game_time_ct": "7:20 PM CT",
-      "rank": 49
+      "rank": 69
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Josh Cameron",
+      "team": "JAX",
+      "opponent": "IND",
+      "market": "Receiving Yds",
+      "model_prediction": 23.98043680407218,
+      "vegas_line": 11.5,
+      "best_line": 11.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 12.48043680407218,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 11.5,
+      "book_lines": {
+        "FanDuel": 11.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4038,
+      "team_abbr": "JAX",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Indianapolis Colts",
+      "opponent_abbr": "IND",
+      "lines": {
+        "FanDuel": 11.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 12.5,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 70
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "RB_Rushing_Yards_V4_vegas",
+      "player_name": "Keaton Mitchell",
+      "team": "LAC",
+      "opponent": "LAR",
+      "market": "Rushing Yds",
+      "model_prediction": 26.92602677996001,
+      "vegas_line": 15.0,
+      "best_line": 14.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 12.426026779960011,
+      "kelly_fraction": 0.3196,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T21:05:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 15.0,
+      "book_lines": {
+        "DraftKings": 15.5,
+        "FanDuel": 14.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4030,
+      "team_abbr": "LAC",
+      "home_team": "Los Angeles Rams",
+      "away_team": "Los Angeles Chargers",
+      "opponent_abbr": "LAR",
+      "lines": {
+        "DraftKings": 15.5,
+        "FanDuel": 14.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 12.4,
+      "is_starred": false,
+      "game_time_ct": "3:05 PM CT",
+      "rank": 71
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Konata Mumpfield",
+      "team": "LA",
+      "opponent": "LAC",
+      "market": "Receiving Yds",
+      "model_prediction": 27.9077256305899,
+      "vegas_line": 16.5,
+      "best_line": 15.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 12.407725630589901,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T21:05:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 16.5,
+      "book_lines": {
+        "DraftKings": 15.5,
+        "FanDuel": 16.5,
+        "BetRivers": 17.5
+      },
+      "line_disparity": 2.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4044,
+      "team_abbr": "LA",
+      "lines": {
+        "DraftKings": 15.5,
+        "FanDuel": 16.5,
+        "BetRivers": 17.5
+      },
+      "opponent_abbr": "",
+      "direction": "OVER",
+      "confidence_pct": 12.4,
+      "is_starred": false,
+      "game_time_ct": "3:05 PM CT",
+      "rank": 72
     },
     {
       "week": 8,
@@ -2718,7 +3916,7 @@
       "confidence_pct": 12.3,
       "is_starred": false,
       "game_time_ct": "7:20 PM CT",
-      "rank": 50
+      "rank": 73
     },
     {
       "week": 8,
@@ -2772,7 +3970,59 @@
       "confidence_pct": 12.1,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 51
+      "rank": 74
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Tez Johnson",
+      "team": "TB",
+      "opponent": "ATL",
+      "market": "Receiving Yds",
+      "model_prediction": 41.4807420292483,
+      "vegas_line": 30.5,
+      "best_line": 29.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 11.980742029248297,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 30.5,
+      "book_lines": {
+        "DraftKings": 31.5,
+        "FanDuel": 29.5
+      },
+      "line_disparity": 2.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4033,
+      "team_abbr": "TB",
+      "home_team": "Tampa Bay Buccaneers",
+      "away_team": "Atlanta Falcons",
+      "opponent_abbr": "ATL",
+      "lines": {
+        "DraftKings": 31.5,
+        "FanDuel": 29.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 12.0,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 75
     },
     {
       "week": 8,
@@ -2828,7 +4078,7 @@
       "confidence_pct": 11.8,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 52
+      "rank": 76
     },
     {
       "week": 8,
@@ -2882,7 +4132,7 @@
       "confidence_pct": 11.8,
       "is_starred": false,
       "game_time_ct": "3:25 PM CT",
-      "rank": 53
+      "rank": 77
     },
     {
       "week": 8,
@@ -2934,7 +4184,7 @@
       "confidence_pct": 11.4,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 54
+      "rank": 78
     },
     {
       "week": 8,
@@ -2990,7 +4240,57 @@
       "confidence_pct": 11.4,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 55
+      "rank": 79
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Travis Hunter",
+      "team": "JAX",
+      "opponent": "IND",
+      "market": "Receiving Yds",
+      "model_prediction": 18.819016283094168,
+      "vegas_line": 7.5,
+      "best_line": 7.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 11.319016283094168,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 7.5,
+      "book_lines": {
+        "FanDuel": 7.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4039,
+      "team_abbr": "JAX",
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Indianapolis Colts",
+      "opponent_abbr": "IND",
+      "lines": {
+        "FanDuel": 7.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 11.3,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 80
     },
     {
       "week": 8,
@@ -3046,7 +4346,57 @@
       "confidence_pct": 11.2,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 56
+      "rank": 81
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "RB_Rushing_Yards_V4_vegas",
+      "player_name": "Michael Carter",
+      "team": "TEN",
+      "opponent": "CIN",
+      "market": "Rushing Yds",
+      "model_prediction": 23.65527439643745,
+      "vegas_line": 12.5,
+      "best_line": 12.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 11.155274396437449,
+      "kelly_fraction": 0.3196,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 12.5,
+      "book_lines": {
+        "FanDuel": 12.5
+      },
+      "line_disparity": 0.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4027,
+      "team_abbr": "TEN",
+      "home_team": "Cincinnati Bengals",
+      "away_team": "Tennessee Titans",
+      "opponent_abbr": "CIN",
+      "lines": {
+        "FanDuel": 12.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 11.2,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 82
     },
     {
       "week": 8,
@@ -3100,7 +4450,7 @@
       "confidence_pct": 11.1,
       "is_starred": false,
       "game_time_ct": "7:15 PM CT",
-      "rank": 57
+      "rank": 83
     },
     {
       "week": 8,
@@ -3156,11 +4506,119 @@
       "confidence_pct": 11.0,
       "is_starred": false,
       "game_time_ct": "12:00 PM CT",
-      "rank": 58
+      "rank": 84
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "TE_Receiving_Yards_V2_clean",
+      "player_name": "Evan Engram",
+      "team": "DEN",
+      "opponent": "KC",
+      "market": "Receiving Yds",
+      "model_prediction": 29.779334589643796,
+      "vegas_line": 19.5,
+      "best_line": 19.5,
+      "best_book": "DraftKings",
+      "best_odds": -110,
+      "edge": 10.279334589643796,
+      "kelly_fraction": 0.3364,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T21:25:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 19.5,
+      "book_lines": {
+        "DraftKings": 19.5,
+        "FanDuel": 20.5,
+        "BetRivers": 19.5
+      },
+      "line_disparity": 1.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.draftkings.com/leagues/football/nfl",
+      "pick_id": 4051,
+      "team_abbr": "DEN",
+      "home_team": "Denver Broncos",
+      "away_team": "Kansas City Chiefs",
+      "opponent_abbr": "KC",
+      "lines": {
+        "DraftKings": 19.5,
+        "FanDuel": 20.5,
+        "BetRivers": 19.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 10.3,
+      "is_starred": false,
+      "game_time_ct": "3:25 PM CT",
+      "rank": 85
+    },
+    {
+      "week": 8,
+      "season": 2026,
+      "model_name": "WR_Receiving_Yards_V3_vegas",
+      "player_name": "Ted Hurst III",
+      "team": "TB",
+      "opponent": "ATL",
+      "market": "Receiving Yds",
+      "model_prediction": 41.690237613173494,
+      "vegas_line": 31.5,
+      "best_line": 31.5,
+      "best_book": "FanDuel",
+      "best_odds": -110,
+      "edge": 10.190237613173494,
+      "kelly_fraction": 0.2125,
+      "bet_size": 170.0,
+      "confidence_tier": "medium",
+      "pick_cancelled": false,
+      "status": "pending",
+      "game_type": "REG",
+      "day_generated": "FRI",
+      "commence_time": "2026-11-01T18:00:00Z",
+      "game_date": "2026-11-01",
+      "consensus_line": 31.5,
+      "book_lines": {
+        "DraftKings": 35.5,
+        "FanDuel": 31.5,
+        "BetRivers": 31.5
+      },
+      "line_disparity": 4.0,
+      "book_urls": {
+        "DraftKings": "https://sportsbook.draftkings.com/leagues/football/nfl",
+        "FanDuel": "https://sportsbook.fanduel.com/navigation/nfl",
+        "BetMGM": "https://sports.betmgm.com/en/sports/football-11/betting/usa-9/nfl-35",
+        "Caesars": "https://sportsbook.caesars.com/us/il/bet/football",
+        "BetRivers": "https://il.betrivers.com/sportsbook/football"
+      },
+      "best_book_url": "https://sportsbook.fanduel.com/navigation/nfl",
+      "pick_id": 4032,
+      "team_abbr": "TB",
+      "home_team": "Tampa Bay Buccaneers",
+      "away_team": "Atlanta Falcons",
+      "opponent_abbr": "ATL",
+      "lines": {
+        "DraftKings": 35.5,
+        "FanDuel": 31.5,
+        "BetRivers": 31.5
+      },
+      "direction": "OVER",
+      "confidence_pct": 10.2,
+      "is_starred": false,
+      "game_time_ct": "12:00 PM CT",
+      "rank": 86
     }
   ],
-  "generated_at": "2026-10-29T18:09:56.723769+00:00",
-  "count": 58,
+  "generated_at": "2026-10-30T17:53:06.471652+00:00",
+  "count": 86,
   "week": 8,
   "season": 2026,
   "bankroll": 5627.24,
